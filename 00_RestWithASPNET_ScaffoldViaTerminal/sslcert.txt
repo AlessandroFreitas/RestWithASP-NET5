@@ -1,0 +1,3405 @@
+
+Associaá‰es de Certificados SSL: 
+------------------------- 
+
+
+
+    IP:porta                      : 0.0.0.0:44300
+    Hash de Certificado             : c250ad99ac75ff7251878711c0e4cd2129e860e7
+    ID do Aplicativo               : {214124cd-d05b-4309-9af9-9caa44b2b74a}
+    Nome do Reposit¢rio de Certificados       : MY
+    Verificar Revogaá∆o de Certificado de Cliente: Enabled
+    Verificar Revogaá∆o Usando Apenas Certificado de Cliente Armazenado em Cache: Disabled
+    Verificaá∆o de Uso                  : Enabled
+    Tempo de Atualizaá∆o da Revogaá∆o    : 0
+    Tempo Limite de Recuperaá∆o de URL        : 0
+    Identificador de Ctl               : (null)
+    Nome do Reposit¢rio de Ctl               : (null)
+    Uso do Mapeador de DS              : Disabled
+    Negociar Certificado de Cliente: Disabled
+    Rejeitar Conex‰es           : Disabled
+    Desabilitar HTTP2                : Not Set
+    Desabilitar QUIC                 : Not Set
+    Desabilitar TLS1.2               : Not Set
+    Desabilitar TLS1.3               : Not Set
+    Desabilitar Grampeamento OCSP        : Not Set
+    Habilitar Associaá∆o de Token         : Not Set
+    Registrar Eventos Estendidos          : Not Set
+    Desabilitar Vers‰es TLS Herdadas: Not Set
+    Habilitar T°quete de Sess∆o        : Not Set
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+
+
+    IP:porta                      : 0.0.0.0:44301
+    Hash de Certificado             : c250ad99ac75ff7251878711c0e4cd2129e860e7
+    ID do Aplicativo               : {214124cd-d05b-4309-9af9-9caa44b2b74a}
+    Nome do Reposit¢rio de Certificados       : MY
+    Verificar Revogaá∆o de Certificado de Cliente: Enabled
+    Verificar Revogaá∆o Usando Apenas Certificado de Cliente Armazenado em Cache: Disabled
+    Verificaá∆o de Uso                  : Enabled
+    Tempo de Atualizaá∆o da Revogaá∆o    : 0
+    Tempo Limite de Recuperaá∆o de URL        : 0
+    Identificador de Ctl               : (null)
+    Nome do Reposit¢rio de Ctl               : (null)
+    Uso do Mapeador de DS              : Disabled
+    Negociar Certificado de Cliente: Disabled
+    Rejeitar Conex‰es           : Disabled
+    Desabilitar HTTP2                : Not Set
+    Desabilitar QUIC                 : Not Set
+    Desabilitar TLS1.2               : Not Set
+    Desabilitar TLS1.3               : Not Set
+    Desabilitar Grampeamento OCSP        : Not Set
+    Habilitar Associaá∆o de Token         : Not Set
+    Registrar Eventos Estendidos          : Not Set
+    Desabilitar Vers‰es TLS Herdadas: Not Set
+    Habilitar T°quete de Sess∆o        : Not Set
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+
+
+    IP:porta                      : 0.0.0.0:44302
+    Hash de Certificado             : c250ad99ac75ff7251878711c0e4cd2129e860e7
+    ID do Aplicativo               : {214124cd-d05b-4309-9af9-9caa44b2b74a}
+    Nome do Reposit¢rio de Certificados       : MY
+    Verificar Revogaá∆o de Certificado de Cliente: Enabled
+    Verificar Revogaá∆o Usando Apenas Certificado de Cliente Armazenado em Cache: Disabled
+    Verificaá∆o de Uso                  : Enabled
+    Tempo de Atualizaá∆o da Revogaá∆o    : 0
+    Tempo Limite de Recuperaá∆o de URL        : 0
+    Identificador de Ctl               : (null)
+    Nome do Reposit¢rio de Ctl               : (null)
+    Uso do Mapeador de DS              : Disabled
+    Negociar Certificado de Cliente: Disabled
+    Rejeitar Conex‰es           : Disabled
+    Desabilitar HTTP2                : Not Set
+    Desabilitar QUIC                 : Not Set
+    Desabilitar TLS1.2               : Not Set
+    Desabilitar TLS1.3               : Not Set
+    Desabilitar Grampeamento OCSP        : Not Set
+    Habilitar Associaá∆o de Token         : Not Set
+    Registrar Eventos Estendidos          : Not Set
+    Desabilitar Vers‰es TLS Herdadas: Not Set
+    Habilitar T°quete de Sess∆o        : Not Set
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+
+
+    IP:porta                      : 0.0.0.0:44303
+    Hash de Certificado             : c250ad99ac75ff7251878711c0e4cd2129e860e7
+    ID do Aplicativo               : {214124cd-d05b-4309-9af9-9caa44b2b74a}
+    Nome do Reposit¢rio de Certificados       : MY
+    Verificar Revogaá∆o de Certificado de Cliente: Enabled
+    Verificar Revogaá∆o Usando Apenas Certificado de Cliente Armazenado em Cache: Disabled
+    Verificaá∆o de Uso                  : Enabled
+    Tempo de Atualizaá∆o da Revogaá∆o    : 0
+    Tempo Limite de Recuperaá∆o de URL        : 0
+    Identificador de Ctl               : (null)
+    Nome do Reposit¢rio de Ctl               : (null)
+    Uso do Mapeador de DS              : Disabled
+    Negociar Certificado de Cliente: Disabled
+    Rejeitar Conex‰es           : Disabled
+    Desabilitar HTTP2                : Not Set
+    Desabilitar QUIC                 : Not Set
+    Desabilitar TLS1.2               : Not Set
+    Desabilitar TLS1.3               : Not Set
+    Desabilitar Grampeamento OCSP        : Not Set
+    Habilitar Associaá∆o de Token         : Not Set
+    Registrar Eventos Estendidos          : Not Set
+    Desabilitar Vers‰es TLS Herdadas: Not Set
+    Habilitar T°quete de Sess∆o        : Not Set
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+
+
+    IP:porta                      : 0.0.0.0:44304
+    Hash de Certificado             : c250ad99ac75ff7251878711c0e4cd2129e860e7
+    ID do Aplicativo               : {214124cd-d05b-4309-9af9-9caa44b2b74a}
+    Nome do Reposit¢rio de Certificados       : MY
+    Verificar Revogaá∆o de Certificado de Cliente: Enabled
+    Verificar Revogaá∆o Usando Apenas Certificado de Cliente Armazenado em Cache: Disabled
+    Verificaá∆o de Uso                  : Enabled
+    Tempo de Atualizaá∆o da Revogaá∆o    : 0
+    Tempo Limite de Recuperaá∆o de URL        : 0
+    Identificador de Ctl               : (null)
+    Nome do Reposit¢rio de Ctl               : (null)
+    Uso do Mapeador de DS              : Disabled
+    Negociar Certificado de Cliente: Disabled
+    Rejeitar Conex‰es           : Disabled
+    Desabilitar HTTP2                : Not Set
+    Desabilitar QUIC                 : Not Set
+    Desabilitar TLS1.2               : Not Set
+    Desabilitar TLS1.3               : Not Set
+    Desabilitar Grampeamento OCSP        : Not Set
+    Habilitar Associaá∆o de Token         : Not Set
+    Registrar Eventos Estendidos          : Not Set
+    Desabilitar Vers‰es TLS Herdadas: Not Set
+    Habilitar T°quete de Sess∆o        : Not Set
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+
+
+    IP:porta                      : 0.0.0.0:44305
+    Hash de Certificado             : c250ad99ac75ff7251878711c0e4cd2129e860e7
+    ID do Aplicativo               : {214124cd-d05b-4309-9af9-9caa44b2b74a}
+    Nome do Reposit¢rio de Certificados       : MY
+    Verificar Revogaá∆o de Certificado de Cliente: Enabled
+    Verificar Revogaá∆o Usando Apenas Certificado de Cliente Armazenado em Cache: Disabled
+    Verificaá∆o de Uso                  : Enabled
+    Tempo de Atualizaá∆o da Revogaá∆o    : 0
+    Tempo Limite de Recuperaá∆o de URL        : 0
+    Identificador de Ctl               : (null)
+    Nome do Reposit¢rio de Ctl               : (null)
+    Uso do Mapeador de DS              : Disabled
+    Negociar Certificado de Cliente: Disabled
+    Rejeitar Conex‰es           : Disabled
+    Desabilitar HTTP2                : Not Set
+    Desabilitar QUIC                 : Not Set
+    Desabilitar TLS1.2               : Not Set
+    Desabilitar TLS1.3               : Not Set
+    Desabilitar Grampeamento OCSP        : Not Set
+    Habilitar Associaá∆o de Token         : Not Set
+    Registrar Eventos Estendidos          : Not Set
+    Desabilitar Vers‰es TLS Herdadas: Not Set
+    Habilitar T°quete de Sess∆o        : Not Set
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+
+
+    IP:porta                      : 0.0.0.0:44306
+    Hash de Certificado             : c250ad99ac75ff7251878711c0e4cd2129e860e7
+    ID do Aplicativo               : {214124cd-d05b-4309-9af9-9caa44b2b74a}
+    Nome do Reposit¢rio de Certificados       : MY
+    Verificar Revogaá∆o de Certificado de Cliente: Enabled
+    Verificar Revogaá∆o Usando Apenas Certificado de Cliente Armazenado em Cache: Disabled
+    Verificaá∆o de Uso                  : Enabled
+    Tempo de Atualizaá∆o da Revogaá∆o    : 0
+    Tempo Limite de Recuperaá∆o de URL        : 0
+    Identificador de Ctl               : (null)
+    Nome do Reposit¢rio de Ctl               : (null)
+    Uso do Mapeador de DS              : Disabled
+    Negociar Certificado de Cliente: Disabled
+    Rejeitar Conex‰es           : Disabled
+    Desabilitar HTTP2                : Not Set
+    Desabilitar QUIC                 : Not Set
+    Desabilitar TLS1.2               : Not Set
+    Desabilitar TLS1.3               : Not Set
+    Desabilitar Grampeamento OCSP        : Not Set
+    Habilitar Associaá∆o de Token         : Not Set
+    Registrar Eventos Estendidos          : Not Set
+    Desabilitar Vers‰es TLS Herdadas: Not Set
+    Habilitar T°quete de Sess∆o        : Not Set
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+
+
+    IP:porta                      : 0.0.0.0:44307
+    Hash de Certificado             : c250ad99ac75ff7251878711c0e4cd2129e860e7
+    ID do Aplicativo               : {214124cd-d05b-4309-9af9-9caa44b2b74a}
+    Nome do Reposit¢rio de Certificados       : MY
+    Verificar Revogaá∆o de Certificado de Cliente: Enabled
+    Verificar Revogaá∆o Usando Apenas Certificado de Cliente Armazenado em Cache: Disabled
+    Verificaá∆o de Uso                  : Enabled
+    Tempo de Atualizaá∆o da Revogaá∆o    : 0
+    Tempo Limite de Recuperaá∆o de URL        : 0
+    Identificador de Ctl               : (null)
+    Nome do Reposit¢rio de Ctl               : (null)
+    Uso do Mapeador de DS              : Disabled
+    Negociar Certificado de Cliente: Disabled
+    Rejeitar Conex‰es           : Disabled
+    Desabilitar HTTP2                : Not Set
+    Desabilitar QUIC                 : Not Set
+    Desabilitar TLS1.2               : Not Set
+    Desabilitar TLS1.3               : Not Set
+    Desabilitar Grampeamento OCSP        : Not Set
+    Habilitar Associaá∆o de Token         : Not Set
+    Registrar Eventos Estendidos          : Not Set
+    Desabilitar Vers‰es TLS Herdadas: Not Set
+    Habilitar T°quete de Sess∆o        : Not Set
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+
+
+    IP:porta                      : 0.0.0.0:44308
+    Hash de Certificado             : c250ad99ac75ff7251878711c0e4cd2129e860e7
+    ID do Aplicativo               : {214124cd-d05b-4309-9af9-9caa44b2b74a}
+    Nome do Reposit¢rio de Certificados       : MY
+    Verificar Revogaá∆o de Certificado de Cliente: Enabled
+    Verificar Revogaá∆o Usando Apenas Certificado de Cliente Armazenado em Cache: Disabled
+    Verificaá∆o de Uso                  : Enabled
+    Tempo de Atualizaá∆o da Revogaá∆o    : 0
+    Tempo Limite de Recuperaá∆o de URL        : 0
+    Identificador de Ctl               : (null)
+    Nome do Reposit¢rio de Ctl               : (null)
+    Uso do Mapeador de DS              : Disabled
+    Negociar Certificado de Cliente: Disabled
+    Rejeitar Conex‰es           : Disabled
+    Desabilitar HTTP2                : Not Set
+    Desabilitar QUIC                 : Not Set
+    Desabilitar TLS1.2               : Not Set
+    Desabilitar TLS1.3               : Not Set
+    Desabilitar Grampeamento OCSP        : Not Set
+    Habilitar Associaá∆o de Token         : Not Set
+    Registrar Eventos Estendidos          : Not Set
+    Desabilitar Vers‰es TLS Herdadas: Not Set
+    Habilitar T°quete de Sess∆o        : Not Set
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+
+
+    IP:porta                      : 0.0.0.0:44309
+    Hash de Certificado             : c250ad99ac75ff7251878711c0e4cd2129e860e7
+    ID do Aplicativo               : {214124cd-d05b-4309-9af9-9caa44b2b74a}
+    Nome do Reposit¢rio de Certificados       : MY
+    Verificar Revogaá∆o de Certificado de Cliente: Enabled
+    Verificar Revogaá∆o Usando Apenas Certificado de Cliente Armazenado em Cache: Disabled
+    Verificaá∆o de Uso                  : Enabled
+    Tempo de Atualizaá∆o da Revogaá∆o    : 0
+    Tempo Limite de Recuperaá∆o de URL        : 0
+    Identificador de Ctl               : (null)
+    Nome do Reposit¢rio de Ctl               : (null)
+    Uso do Mapeador de DS              : Disabled
+    Negociar Certificado de Cliente: Disabled
+    Rejeitar Conex‰es           : Disabled
+    Desabilitar HTTP2                : Not Set
+    Desabilitar QUIC                 : Not Set
+    Desabilitar TLS1.2               : Not Set
+    Desabilitar TLS1.3               : Not Set
+    Desabilitar Grampeamento OCSP        : Not Set
+    Habilitar Associaá∆o de Token         : Not Set
+    Registrar Eventos Estendidos          : Not Set
+    Desabilitar Vers‰es TLS Herdadas: Not Set
+    Habilitar T°quete de Sess∆o        : Not Set
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+
+
+    IP:porta                      : 0.0.0.0:44310
+    Hash de Certificado             : c250ad99ac75ff7251878711c0e4cd2129e860e7
+    ID do Aplicativo               : {214124cd-d05b-4309-9af9-9caa44b2b74a}
+    Nome do Reposit¢rio de Certificados       : MY
+    Verificar Revogaá∆o de Certificado de Cliente: Enabled
+    Verificar Revogaá∆o Usando Apenas Certificado de Cliente Armazenado em Cache: Disabled
+    Verificaá∆o de Uso                  : Enabled
+    Tempo de Atualizaá∆o da Revogaá∆o    : 0
+    Tempo Limite de Recuperaá∆o de URL        : 0
+    Identificador de Ctl               : (null)
+    Nome do Reposit¢rio de Ctl               : (null)
+    Uso do Mapeador de DS              : Disabled
+    Negociar Certificado de Cliente: Disabled
+    Rejeitar Conex‰es           : Disabled
+    Desabilitar HTTP2                : Not Set
+    Desabilitar QUIC                 : Not Set
+    Desabilitar TLS1.2               : Not Set
+    Desabilitar TLS1.3               : Not Set
+    Desabilitar Grampeamento OCSP        : Not Set
+    Habilitar Associaá∆o de Token         : Not Set
+    Registrar Eventos Estendidos          : Not Set
+    Desabilitar Vers‰es TLS Herdadas: Not Set
+    Habilitar T°quete de Sess∆o        : Not Set
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+
+
+    IP:porta                      : 0.0.0.0:44311
+    Hash de Certificado             : c250ad99ac75ff7251878711c0e4cd2129e860e7
+    ID do Aplicativo               : {214124cd-d05b-4309-9af9-9caa44b2b74a}
+    Nome do Reposit¢rio de Certificados       : MY
+    Verificar Revogaá∆o de Certificado de Cliente: Enabled
+    Verificar Revogaá∆o Usando Apenas Certificado de Cliente Armazenado em Cache: Disabled
+    Verificaá∆o de Uso                  : Enabled
+    Tempo de Atualizaá∆o da Revogaá∆o    : 0
+    Tempo Limite de Recuperaá∆o de URL        : 0
+    Identificador de Ctl               : (null)
+    Nome do Reposit¢rio de Ctl               : (null)
+    Uso do Mapeador de DS              : Disabled
+    Negociar Certificado de Cliente: Disabled
+    Rejeitar Conex‰es           : Disabled
+    Desabilitar HTTP2                : Not Set
+    Desabilitar QUIC                 : Not Set
+    Desabilitar TLS1.2               : Not Set
+    Desabilitar TLS1.3               : Not Set
+    Desabilitar Grampeamento OCSP        : Not Set
+    Habilitar Associaá∆o de Token         : Not Set
+    Registrar Eventos Estendidos          : Not Set
+    Desabilitar Vers‰es TLS Herdadas: Not Set
+    Habilitar T°quete de Sess∆o        : Not Set
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+
+
+    IP:porta                      : 0.0.0.0:44312
+    Hash de Certificado             : c250ad99ac75ff7251878711c0e4cd2129e860e7
+    ID do Aplicativo               : {214124cd-d05b-4309-9af9-9caa44b2b74a}
+    Nome do Reposit¢rio de Certificados       : MY
+    Verificar Revogaá∆o de Certificado de Cliente: Enabled
+    Verificar Revogaá∆o Usando Apenas Certificado de Cliente Armazenado em Cache: Disabled
+    Verificaá∆o de Uso                  : Enabled
+    Tempo de Atualizaá∆o da Revogaá∆o    : 0
+    Tempo Limite de Recuperaá∆o de URL        : 0
+    Identificador de Ctl               : (null)
+    Nome do Reposit¢rio de Ctl               : (null)
+    Uso do Mapeador de DS              : Disabled
+    Negociar Certificado de Cliente: Disabled
+    Rejeitar Conex‰es           : Disabled
+    Desabilitar HTTP2                : Not Set
+    Desabilitar QUIC                 : Not Set
+    Desabilitar TLS1.2               : Not Set
+    Desabilitar TLS1.3               : Not Set
+    Desabilitar Grampeamento OCSP        : Not Set
+    Habilitar Associaá∆o de Token         : Not Set
+    Registrar Eventos Estendidos          : Not Set
+    Desabilitar Vers‰es TLS Herdadas: Not Set
+    Habilitar T°quete de Sess∆o        : Not Set
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+
+
+    IP:porta                      : 0.0.0.0:44313
+    Hash de Certificado             : c250ad99ac75ff7251878711c0e4cd2129e860e7
+    ID do Aplicativo               : {214124cd-d05b-4309-9af9-9caa44b2b74a}
+    Nome do Reposit¢rio de Certificados       : MY
+    Verificar Revogaá∆o de Certificado de Cliente: Enabled
+    Verificar Revogaá∆o Usando Apenas Certificado de Cliente Armazenado em Cache: Disabled
+    Verificaá∆o de Uso                  : Enabled
+    Tempo de Atualizaá∆o da Revogaá∆o    : 0
+    Tempo Limite de Recuperaá∆o de URL        : 0
+    Identificador de Ctl               : (null)
+    Nome do Reposit¢rio de Ctl               : (null)
+    Uso do Mapeador de DS              : Disabled
+    Negociar Certificado de Cliente: Disabled
+    Rejeitar Conex‰es           : Disabled
+    Desabilitar HTTP2                : Not Set
+    Desabilitar QUIC                 : Not Set
+    Desabilitar TLS1.2               : Not Set
+    Desabilitar TLS1.3               : Not Set
+    Desabilitar Grampeamento OCSP        : Not Set
+    Habilitar Associaá∆o de Token         : Not Set
+    Registrar Eventos Estendidos          : Not Set
+    Desabilitar Vers‰es TLS Herdadas: Not Set
+    Habilitar T°quete de Sess∆o        : Not Set
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+
+
+    IP:porta                      : 0.0.0.0:44314
+    Hash de Certificado             : c250ad99ac75ff7251878711c0e4cd2129e860e7
+    ID do Aplicativo               : {214124cd-d05b-4309-9af9-9caa44b2b74a}
+    Nome do Reposit¢rio de Certificados       : MY
+    Verificar Revogaá∆o de Certificado de Cliente: Enabled
+    Verificar Revogaá∆o Usando Apenas Certificado de Cliente Armazenado em Cache: Disabled
+    Verificaá∆o de Uso                  : Enabled
+    Tempo de Atualizaá∆o da Revogaá∆o    : 0
+    Tempo Limite de Recuperaá∆o de URL        : 0
+    Identificador de Ctl               : (null)
+    Nome do Reposit¢rio de Ctl               : (null)
+    Uso do Mapeador de DS              : Disabled
+    Negociar Certificado de Cliente: Disabled
+    Rejeitar Conex‰es           : Disabled
+    Desabilitar HTTP2                : Not Set
+    Desabilitar QUIC                 : Not Set
+    Desabilitar TLS1.2               : Not Set
+    Desabilitar TLS1.3               : Not Set
+    Desabilitar Grampeamento OCSP        : Not Set
+    Habilitar Associaá∆o de Token         : Not Set
+    Registrar Eventos Estendidos          : Not Set
+    Desabilitar Vers‰es TLS Herdadas: Not Set
+    Habilitar T°quete de Sess∆o        : Not Set
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+
+
+    IP:porta                      : 0.0.0.0:44315
+    Hash de Certificado             : c250ad99ac75ff7251878711c0e4cd2129e860e7
+    ID do Aplicativo               : {214124cd-d05b-4309-9af9-9caa44b2b74a}
+    Nome do Reposit¢rio de Certificados       : MY
+    Verificar Revogaá∆o de Certificado de Cliente: Enabled
+    Verificar Revogaá∆o Usando Apenas Certificado de Cliente Armazenado em Cache: Disabled
+    Verificaá∆o de Uso                  : Enabled
+    Tempo de Atualizaá∆o da Revogaá∆o    : 0
+    Tempo Limite de Recuperaá∆o de URL        : 0
+    Identificador de Ctl               : (null)
+    Nome do Reposit¢rio de Ctl               : (null)
+    Uso do Mapeador de DS              : Disabled
+    Negociar Certificado de Cliente: Disabled
+    Rejeitar Conex‰es           : Disabled
+    Desabilitar HTTP2                : Not Set
+    Desabilitar QUIC                 : Not Set
+    Desabilitar TLS1.2               : Not Set
+    Desabilitar TLS1.3               : Not Set
+    Desabilitar Grampeamento OCSP        : Not Set
+    Habilitar Associaá∆o de Token         : Not Set
+    Registrar Eventos Estendidos          : Not Set
+    Desabilitar Vers‰es TLS Herdadas: Not Set
+    Habilitar T°quete de Sess∆o        : Not Set
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+
+
+    IP:porta                      : 0.0.0.0:44316
+    Hash de Certificado             : c250ad99ac75ff7251878711c0e4cd2129e860e7
+    ID do Aplicativo               : {214124cd-d05b-4309-9af9-9caa44b2b74a}
+    Nome do Reposit¢rio de Certificados       : MY
+    Verificar Revogaá∆o de Certificado de Cliente: Enabled
+    Verificar Revogaá∆o Usando Apenas Certificado de Cliente Armazenado em Cache: Disabled
+    Verificaá∆o de Uso                  : Enabled
+    Tempo de Atualizaá∆o da Revogaá∆o    : 0
+    Tempo Limite de Recuperaá∆o de URL        : 0
+    Identificador de Ctl               : (null)
+    Nome do Reposit¢rio de Ctl               : (null)
+    Uso do Mapeador de DS              : Disabled
+    Negociar Certificado de Cliente: Disabled
+    Rejeitar Conex‰es           : Disabled
+    Desabilitar HTTP2                : Not Set
+    Desabilitar QUIC                 : Not Set
+    Desabilitar TLS1.2               : Not Set
+    Desabilitar TLS1.3               : Not Set
+    Desabilitar Grampeamento OCSP        : Not Set
+    Habilitar Associaá∆o de Token         : Not Set
+    Registrar Eventos Estendidos          : Not Set
+    Desabilitar Vers‰es TLS Herdadas: Not Set
+    Habilitar T°quete de Sess∆o        : Not Set
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+
+
+    IP:porta                      : 0.0.0.0:44317
+    Hash de Certificado             : c250ad99ac75ff7251878711c0e4cd2129e860e7
+    ID do Aplicativo               : {214124cd-d05b-4309-9af9-9caa44b2b74a}
+    Nome do Reposit¢rio de Certificados       : MY
+    Verificar Revogaá∆o de Certificado de Cliente: Enabled
+    Verificar Revogaá∆o Usando Apenas Certificado de Cliente Armazenado em Cache: Disabled
+    Verificaá∆o de Uso                  : Enabled
+    Tempo de Atualizaá∆o da Revogaá∆o    : 0
+    Tempo Limite de Recuperaá∆o de URL        : 0
+    Identificador de Ctl               : (null)
+    Nome do Reposit¢rio de Ctl               : (null)
+    Uso do Mapeador de DS              : Disabled
+    Negociar Certificado de Cliente: Disabled
+    Rejeitar Conex‰es           : Disabled
+    Desabilitar HTTP2                : Not Set
+    Desabilitar QUIC                 : Not Set
+    Desabilitar TLS1.2               : Not Set
+    Desabilitar TLS1.3               : Not Set
+    Desabilitar Grampeamento OCSP        : Not Set
+    Habilitar Associaá∆o de Token         : Not Set
+    Registrar Eventos Estendidos          : Not Set
+    Desabilitar Vers‰es TLS Herdadas: Not Set
+    Habilitar T°quete de Sess∆o        : Not Set
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+
+
+    IP:porta                      : 0.0.0.0:44318
+    Hash de Certificado             : c250ad99ac75ff7251878711c0e4cd2129e860e7
+    ID do Aplicativo               : {214124cd-d05b-4309-9af9-9caa44b2b74a}
+    Nome do Reposit¢rio de Certificados       : MY
+    Verificar Revogaá∆o de Certificado de Cliente: Enabled
+    Verificar Revogaá∆o Usando Apenas Certificado de Cliente Armazenado em Cache: Disabled
+    Verificaá∆o de Uso                  : Enabled
+    Tempo de Atualizaá∆o da Revogaá∆o    : 0
+    Tempo Limite de Recuperaá∆o de URL        : 0
+    Identificador de Ctl               : (null)
+    Nome do Reposit¢rio de Ctl               : (null)
+    Uso do Mapeador de DS              : Disabled
+    Negociar Certificado de Cliente: Disabled
+    Rejeitar Conex‰es           : Disabled
+    Desabilitar HTTP2                : Not Set
+    Desabilitar QUIC                 : Not Set
+    Desabilitar TLS1.2               : Not Set
+    Desabilitar TLS1.3               : Not Set
+    Desabilitar Grampeamento OCSP        : Not Set
+    Habilitar Associaá∆o de Token         : Not Set
+    Registrar Eventos Estendidos          : Not Set
+    Desabilitar Vers‰es TLS Herdadas: Not Set
+    Habilitar T°quete de Sess∆o        : Not Set
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+
+
+    IP:porta                      : 0.0.0.0:44319
+    Hash de Certificado             : c250ad99ac75ff7251878711c0e4cd2129e860e7
+    ID do Aplicativo               : {214124cd-d05b-4309-9af9-9caa44b2b74a}
+    Nome do Reposit¢rio de Certificados       : MY
+    Verificar Revogaá∆o de Certificado de Cliente: Enabled
+    Verificar Revogaá∆o Usando Apenas Certificado de Cliente Armazenado em Cache: Disabled
+    Verificaá∆o de Uso                  : Enabled
+    Tempo de Atualizaá∆o da Revogaá∆o    : 0
+    Tempo Limite de Recuperaá∆o de URL        : 0
+    Identificador de Ctl               : (null)
+    Nome do Reposit¢rio de Ctl               : (null)
+    Uso do Mapeador de DS              : Disabled
+    Negociar Certificado de Cliente: Disabled
+    Rejeitar Conex‰es           : Disabled
+    Desabilitar HTTP2                : Not Set
+    Desabilitar QUIC                 : Not Set
+    Desabilitar TLS1.2               : Not Set
+    Desabilitar TLS1.3               : Not Set
+    Desabilitar Grampeamento OCSP        : Not Set
+    Habilitar Associaá∆o de Token         : Not Set
+    Registrar Eventos Estendidos          : Not Set
+    Desabilitar Vers‰es TLS Herdadas: Not Set
+    Habilitar T°quete de Sess∆o        : Not Set
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+
+
+    IP:porta                      : 0.0.0.0:44320
+    Hash de Certificado             : c250ad99ac75ff7251878711c0e4cd2129e860e7
+    ID do Aplicativo               : {214124cd-d05b-4309-9af9-9caa44b2b74a}
+    Nome do Reposit¢rio de Certificados       : MY
+    Verificar Revogaá∆o de Certificado de Cliente: Enabled
+    Verificar Revogaá∆o Usando Apenas Certificado de Cliente Armazenado em Cache: Disabled
+    Verificaá∆o de Uso                  : Enabled
+    Tempo de Atualizaá∆o da Revogaá∆o    : 0
+    Tempo Limite de Recuperaá∆o de URL        : 0
+    Identificador de Ctl               : (null)
+    Nome do Reposit¢rio de Ctl               : (null)
+    Uso do Mapeador de DS              : Disabled
+    Negociar Certificado de Cliente: Disabled
+    Rejeitar Conex‰es           : Disabled
+    Desabilitar HTTP2                : Not Set
+    Desabilitar QUIC                 : Not Set
+    Desabilitar TLS1.2               : Not Set
+    Desabilitar TLS1.3               : Not Set
+    Desabilitar Grampeamento OCSP        : Not Set
+    Habilitar Associaá∆o de Token         : Not Set
+    Registrar Eventos Estendidos          : Not Set
+    Desabilitar Vers‰es TLS Herdadas: Not Set
+    Habilitar T°quete de Sess∆o        : Not Set
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+
+
+    IP:porta                      : 0.0.0.0:44321
+    Hash de Certificado             : c250ad99ac75ff7251878711c0e4cd2129e860e7
+    ID do Aplicativo               : {214124cd-d05b-4309-9af9-9caa44b2b74a}
+    Nome do Reposit¢rio de Certificados       : MY
+    Verificar Revogaá∆o de Certificado de Cliente: Enabled
+    Verificar Revogaá∆o Usando Apenas Certificado de Cliente Armazenado em Cache: Disabled
+    Verificaá∆o de Uso                  : Enabled
+    Tempo de Atualizaá∆o da Revogaá∆o    : 0
+    Tempo Limite de Recuperaá∆o de URL        : 0
+    Identificador de Ctl               : (null)
+    Nome do Reposit¢rio de Ctl               : (null)
+    Uso do Mapeador de DS              : Disabled
+    Negociar Certificado de Cliente: Disabled
+    Rejeitar Conex‰es           : Disabled
+    Desabilitar HTTP2                : Not Set
+    Desabilitar QUIC                 : Not Set
+    Desabilitar TLS1.2               : Not Set
+    Desabilitar TLS1.3               : Not Set
+    Desabilitar Grampeamento OCSP        : Not Set
+    Habilitar Associaá∆o de Token         : Not Set
+    Registrar Eventos Estendidos          : Not Set
+    Desabilitar Vers‰es TLS Herdadas: Not Set
+    Habilitar T°quete de Sess∆o        : Not Set
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+
+
+    IP:porta                      : 0.0.0.0:44322
+    Hash de Certificado             : c250ad99ac75ff7251878711c0e4cd2129e860e7
+    ID do Aplicativo               : {214124cd-d05b-4309-9af9-9caa44b2b74a}
+    Nome do Reposit¢rio de Certificados       : MY
+    Verificar Revogaá∆o de Certificado de Cliente: Enabled
+    Verificar Revogaá∆o Usando Apenas Certificado de Cliente Armazenado em Cache: Disabled
+    Verificaá∆o de Uso                  : Enabled
+    Tempo de Atualizaá∆o da Revogaá∆o    : 0
+    Tempo Limite de Recuperaá∆o de URL        : 0
+    Identificador de Ctl               : (null)
+    Nome do Reposit¢rio de Ctl               : (null)
+    Uso do Mapeador de DS              : Disabled
+    Negociar Certificado de Cliente: Disabled
+    Rejeitar Conex‰es           : Disabled
+    Desabilitar HTTP2                : Not Set
+    Desabilitar QUIC                 : Not Set
+    Desabilitar TLS1.2               : Not Set
+    Desabilitar TLS1.3               : Not Set
+    Desabilitar Grampeamento OCSP        : Not Set
+    Habilitar Associaá∆o de Token         : Not Set
+    Registrar Eventos Estendidos          : Not Set
+    Desabilitar Vers‰es TLS Herdadas: Not Set
+    Habilitar T°quete de Sess∆o        : Not Set
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+
+
+    IP:porta                      : 0.0.0.0:44323
+    Hash de Certificado             : c250ad99ac75ff7251878711c0e4cd2129e860e7
+    ID do Aplicativo               : {214124cd-d05b-4309-9af9-9caa44b2b74a}
+    Nome do Reposit¢rio de Certificados       : MY
+    Verificar Revogaá∆o de Certificado de Cliente: Enabled
+    Verificar Revogaá∆o Usando Apenas Certificado de Cliente Armazenado em Cache: Disabled
+    Verificaá∆o de Uso                  : Enabled
+    Tempo de Atualizaá∆o da Revogaá∆o    : 0
+    Tempo Limite de Recuperaá∆o de URL        : 0
+    Identificador de Ctl               : (null)
+    Nome do Reposit¢rio de Ctl               : (null)
+    Uso do Mapeador de DS              : Disabled
+    Negociar Certificado de Cliente: Disabled
+    Rejeitar Conex‰es           : Disabled
+    Desabilitar HTTP2                : Not Set
+    Desabilitar QUIC                 : Not Set
+    Desabilitar TLS1.2               : Not Set
+    Desabilitar TLS1.3               : Not Set
+    Desabilitar Grampeamento OCSP        : Not Set
+    Habilitar Associaá∆o de Token         : Not Set
+    Registrar Eventos Estendidos          : Not Set
+    Desabilitar Vers‰es TLS Herdadas: Not Set
+    Habilitar T°quete de Sess∆o        : Not Set
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+
+
+    IP:porta                      : 0.0.0.0:44324
+    Hash de Certificado             : c250ad99ac75ff7251878711c0e4cd2129e860e7
+    ID do Aplicativo               : {214124cd-d05b-4309-9af9-9caa44b2b74a}
+    Nome do Reposit¢rio de Certificados       : MY
+    Verificar Revogaá∆o de Certificado de Cliente: Enabled
+    Verificar Revogaá∆o Usando Apenas Certificado de Cliente Armazenado em Cache: Disabled
+    Verificaá∆o de Uso                  : Enabled
+    Tempo de Atualizaá∆o da Revogaá∆o    : 0
+    Tempo Limite de Recuperaá∆o de URL        : 0
+    Identificador de Ctl               : (null)
+    Nome do Reposit¢rio de Ctl               : (null)
+    Uso do Mapeador de DS              : Disabled
+    Negociar Certificado de Cliente: Disabled
+    Rejeitar Conex‰es           : Disabled
+    Desabilitar HTTP2                : Not Set
+    Desabilitar QUIC                 : Not Set
+    Desabilitar TLS1.2               : Not Set
+    Desabilitar TLS1.3               : Not Set
+    Desabilitar Grampeamento OCSP        : Not Set
+    Habilitar Associaá∆o de Token         : Not Set
+    Registrar Eventos Estendidos          : Not Set
+    Desabilitar Vers‰es TLS Herdadas: Not Set
+    Habilitar T°quete de Sess∆o        : Not Set
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+
+
+    IP:porta                      : 0.0.0.0:44325
+    Hash de Certificado             : c250ad99ac75ff7251878711c0e4cd2129e860e7
+    ID do Aplicativo               : {214124cd-d05b-4309-9af9-9caa44b2b74a}
+    Nome do Reposit¢rio de Certificados       : MY
+    Verificar Revogaá∆o de Certificado de Cliente: Enabled
+    Verificar Revogaá∆o Usando Apenas Certificado de Cliente Armazenado em Cache: Disabled
+    Verificaá∆o de Uso                  : Enabled
+    Tempo de Atualizaá∆o da Revogaá∆o    : 0
+    Tempo Limite de Recuperaá∆o de URL        : 0
+    Identificador de Ctl               : (null)
+    Nome do Reposit¢rio de Ctl               : (null)
+    Uso do Mapeador de DS              : Disabled
+    Negociar Certificado de Cliente: Disabled
+    Rejeitar Conex‰es           : Disabled
+    Desabilitar HTTP2                : Not Set
+    Desabilitar QUIC                 : Not Set
+    Desabilitar TLS1.2               : Not Set
+    Desabilitar TLS1.3               : Not Set
+    Desabilitar Grampeamento OCSP        : Not Set
+    Habilitar Associaá∆o de Token         : Not Set
+    Registrar Eventos Estendidos          : Not Set
+    Desabilitar Vers‰es TLS Herdadas: Not Set
+    Habilitar T°quete de Sess∆o        : Not Set
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+
+
+    IP:porta                      : 0.0.0.0:44326
+    Hash de Certificado             : c250ad99ac75ff7251878711c0e4cd2129e860e7
+    ID do Aplicativo               : {214124cd-d05b-4309-9af9-9caa44b2b74a}
+    Nome do Reposit¢rio de Certificados       : MY
+    Verificar Revogaá∆o de Certificado de Cliente: Enabled
+    Verificar Revogaá∆o Usando Apenas Certificado de Cliente Armazenado em Cache: Disabled
+    Verificaá∆o de Uso                  : Enabled
+    Tempo de Atualizaá∆o da Revogaá∆o    : 0
+    Tempo Limite de Recuperaá∆o de URL        : 0
+    Identificador de Ctl               : (null)
+    Nome do Reposit¢rio de Ctl               : (null)
+    Uso do Mapeador de DS              : Disabled
+    Negociar Certificado de Cliente: Disabled
+    Rejeitar Conex‰es           : Disabled
+    Desabilitar HTTP2                : Not Set
+    Desabilitar QUIC                 : Not Set
+    Desabilitar TLS1.2               : Not Set
+    Desabilitar TLS1.3               : Not Set
+    Desabilitar Grampeamento OCSP        : Not Set
+    Habilitar Associaá∆o de Token         : Not Set
+    Registrar Eventos Estendidos          : Not Set
+    Desabilitar Vers‰es TLS Herdadas: Not Set
+    Habilitar T°quete de Sess∆o        : Not Set
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+
+
+    IP:porta                      : 0.0.0.0:44327
+    Hash de Certificado             : c250ad99ac75ff7251878711c0e4cd2129e860e7
+    ID do Aplicativo               : {214124cd-d05b-4309-9af9-9caa44b2b74a}
+    Nome do Reposit¢rio de Certificados       : MY
+    Verificar Revogaá∆o de Certificado de Cliente: Enabled
+    Verificar Revogaá∆o Usando Apenas Certificado de Cliente Armazenado em Cache: Disabled
+    Verificaá∆o de Uso                  : Enabled
+    Tempo de Atualizaá∆o da Revogaá∆o    : 0
+    Tempo Limite de Recuperaá∆o de URL        : 0
+    Identificador de Ctl               : (null)
+    Nome do Reposit¢rio de Ctl               : (null)
+    Uso do Mapeador de DS              : Disabled
+    Negociar Certificado de Cliente: Disabled
+    Rejeitar Conex‰es           : Disabled
+    Desabilitar HTTP2                : Not Set
+    Desabilitar QUIC                 : Not Set
+    Desabilitar TLS1.2               : Not Set
+    Desabilitar TLS1.3               : Not Set
+    Desabilitar Grampeamento OCSP        : Not Set
+    Habilitar Associaá∆o de Token         : Not Set
+    Registrar Eventos Estendidos          : Not Set
+    Desabilitar Vers‰es TLS Herdadas: Not Set
+    Habilitar T°quete de Sess∆o        : Not Set
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+
+
+    IP:porta                      : 0.0.0.0:44328
+    Hash de Certificado             : c250ad99ac75ff7251878711c0e4cd2129e860e7
+    ID do Aplicativo               : {214124cd-d05b-4309-9af9-9caa44b2b74a}
+    Nome do Reposit¢rio de Certificados       : MY
+    Verificar Revogaá∆o de Certificado de Cliente: Enabled
+    Verificar Revogaá∆o Usando Apenas Certificado de Cliente Armazenado em Cache: Disabled
+    Verificaá∆o de Uso                  : Enabled
+    Tempo de Atualizaá∆o da Revogaá∆o    : 0
+    Tempo Limite de Recuperaá∆o de URL        : 0
+    Identificador de Ctl               : (null)
+    Nome do Reposit¢rio de Ctl               : (null)
+    Uso do Mapeador de DS              : Disabled
+    Negociar Certificado de Cliente: Disabled
+    Rejeitar Conex‰es           : Disabled
+    Desabilitar HTTP2                : Not Set
+    Desabilitar QUIC                 : Not Set
+    Desabilitar TLS1.2               : Not Set
+    Desabilitar TLS1.3               : Not Set
+    Desabilitar Grampeamento OCSP        : Not Set
+    Habilitar Associaá∆o de Token         : Not Set
+    Registrar Eventos Estendidos          : Not Set
+    Desabilitar Vers‰es TLS Herdadas: Not Set
+    Habilitar T°quete de Sess∆o        : Not Set
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+
+
+    IP:porta                      : 0.0.0.0:44329
+    Hash de Certificado             : c250ad99ac75ff7251878711c0e4cd2129e860e7
+    ID do Aplicativo               : {214124cd-d05b-4309-9af9-9caa44b2b74a}
+    Nome do Reposit¢rio de Certificados       : MY
+    Verificar Revogaá∆o de Certificado de Cliente: Enabled
+    Verificar Revogaá∆o Usando Apenas Certificado de Cliente Armazenado em Cache: Disabled
+    Verificaá∆o de Uso                  : Enabled
+    Tempo de Atualizaá∆o da Revogaá∆o    : 0
+    Tempo Limite de Recuperaá∆o de URL        : 0
+    Identificador de Ctl               : (null)
+    Nome do Reposit¢rio de Ctl               : (null)
+    Uso do Mapeador de DS              : Disabled
+    Negociar Certificado de Cliente: Disabled
+    Rejeitar Conex‰es           : Disabled
+    Desabilitar HTTP2                : Not Set
+    Desabilitar QUIC                 : Not Set
+    Desabilitar TLS1.2               : Not Set
+    Desabilitar TLS1.3               : Not Set
+    Desabilitar Grampeamento OCSP        : Not Set
+    Habilitar Associaá∆o de Token         : Not Set
+    Registrar Eventos Estendidos          : Not Set
+    Desabilitar Vers‰es TLS Herdadas: Not Set
+    Habilitar T°quete de Sess∆o        : Not Set
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+
+
+    IP:porta                      : 0.0.0.0:44330
+    Hash de Certificado             : c250ad99ac75ff7251878711c0e4cd2129e860e7
+    ID do Aplicativo               : {214124cd-d05b-4309-9af9-9caa44b2b74a}
+    Nome do Reposit¢rio de Certificados       : MY
+    Verificar Revogaá∆o de Certificado de Cliente: Enabled
+    Verificar Revogaá∆o Usando Apenas Certificado de Cliente Armazenado em Cache: Disabled
+    Verificaá∆o de Uso                  : Enabled
+    Tempo de Atualizaá∆o da Revogaá∆o    : 0
+    Tempo Limite de Recuperaá∆o de URL        : 0
+    Identificador de Ctl               : (null)
+    Nome do Reposit¢rio de Ctl               : (null)
+    Uso do Mapeador de DS              : Disabled
+    Negociar Certificado de Cliente: Disabled
+    Rejeitar Conex‰es           : Disabled
+    Desabilitar HTTP2                : Not Set
+    Desabilitar QUIC                 : Not Set
+    Desabilitar TLS1.2               : Not Set
+    Desabilitar TLS1.3               : Not Set
+    Desabilitar Grampeamento OCSP        : Not Set
+    Habilitar Associaá∆o de Token         : Not Set
+    Registrar Eventos Estendidos          : Not Set
+    Desabilitar Vers‰es TLS Herdadas: Not Set
+    Habilitar T°quete de Sess∆o        : Not Set
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+
+
+    IP:porta                      : 0.0.0.0:44331
+    Hash de Certificado             : c250ad99ac75ff7251878711c0e4cd2129e860e7
+    ID do Aplicativo               : {214124cd-d05b-4309-9af9-9caa44b2b74a}
+    Nome do Reposit¢rio de Certificados       : MY
+    Verificar Revogaá∆o de Certificado de Cliente: Enabled
+    Verificar Revogaá∆o Usando Apenas Certificado de Cliente Armazenado em Cache: Disabled
+    Verificaá∆o de Uso                  : Enabled
+    Tempo de Atualizaá∆o da Revogaá∆o    : 0
+    Tempo Limite de Recuperaá∆o de URL        : 0
+    Identificador de Ctl               : (null)
+    Nome do Reposit¢rio de Ctl               : (null)
+    Uso do Mapeador de DS              : Disabled
+    Negociar Certificado de Cliente: Disabled
+    Rejeitar Conex‰es           : Disabled
+    Desabilitar HTTP2                : Not Set
+    Desabilitar QUIC                 : Not Set
+    Desabilitar TLS1.2               : Not Set
+    Desabilitar TLS1.3               : Not Set
+    Desabilitar Grampeamento OCSP        : Not Set
+    Habilitar Associaá∆o de Token         : Not Set
+    Registrar Eventos Estendidos          : Not Set
+    Desabilitar Vers‰es TLS Herdadas: Not Set
+    Habilitar T°quete de Sess∆o        : Not Set
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+
+
+    IP:porta                      : 0.0.0.0:44332
+    Hash de Certificado             : c250ad99ac75ff7251878711c0e4cd2129e860e7
+    ID do Aplicativo               : {214124cd-d05b-4309-9af9-9caa44b2b74a}
+    Nome do Reposit¢rio de Certificados       : MY
+    Verificar Revogaá∆o de Certificado de Cliente: Enabled
+    Verificar Revogaá∆o Usando Apenas Certificado de Cliente Armazenado em Cache: Disabled
+    Verificaá∆o de Uso                  : Enabled
+    Tempo de Atualizaá∆o da Revogaá∆o    : 0
+    Tempo Limite de Recuperaá∆o de URL        : 0
+    Identificador de Ctl               : (null)
+    Nome do Reposit¢rio de Ctl               : (null)
+    Uso do Mapeador de DS              : Disabled
+    Negociar Certificado de Cliente: Disabled
+    Rejeitar Conex‰es           : Disabled
+    Desabilitar HTTP2                : Not Set
+    Desabilitar QUIC                 : Not Set
+    Desabilitar TLS1.2               : Not Set
+    Desabilitar TLS1.3               : Not Set
+    Desabilitar Grampeamento OCSP        : Not Set
+    Habilitar Associaá∆o de Token         : Not Set
+    Registrar Eventos Estendidos          : Not Set
+    Desabilitar Vers‰es TLS Herdadas: Not Set
+    Habilitar T°quete de Sess∆o        : Not Set
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+
+
+    IP:porta                      : 0.0.0.0:44333
+    Hash de Certificado             : c250ad99ac75ff7251878711c0e4cd2129e860e7
+    ID do Aplicativo               : {214124cd-d05b-4309-9af9-9caa44b2b74a}
+    Nome do Reposit¢rio de Certificados       : MY
+    Verificar Revogaá∆o de Certificado de Cliente: Enabled
+    Verificar Revogaá∆o Usando Apenas Certificado de Cliente Armazenado em Cache: Disabled
+    Verificaá∆o de Uso                  : Enabled
+    Tempo de Atualizaá∆o da Revogaá∆o    : 0
+    Tempo Limite de Recuperaá∆o de URL        : 0
+    Identificador de Ctl               : (null)
+    Nome do Reposit¢rio de Ctl               : (null)
+    Uso do Mapeador de DS              : Disabled
+    Negociar Certificado de Cliente: Disabled
+    Rejeitar Conex‰es           : Disabled
+    Desabilitar HTTP2                : Not Set
+    Desabilitar QUIC                 : Not Set
+    Desabilitar TLS1.2               : Not Set
+    Desabilitar TLS1.3               : Not Set
+    Desabilitar Grampeamento OCSP        : Not Set
+    Habilitar Associaá∆o de Token         : Not Set
+    Registrar Eventos Estendidos          : Not Set
+    Desabilitar Vers‰es TLS Herdadas: Not Set
+    Habilitar T°quete de Sess∆o        : Not Set
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+
+
+    IP:porta                      : 0.0.0.0:44334
+    Hash de Certificado             : c250ad99ac75ff7251878711c0e4cd2129e860e7
+    ID do Aplicativo               : {214124cd-d05b-4309-9af9-9caa44b2b74a}
+    Nome do Reposit¢rio de Certificados       : MY
+    Verificar Revogaá∆o de Certificado de Cliente: Enabled
+    Verificar Revogaá∆o Usando Apenas Certificado de Cliente Armazenado em Cache: Disabled
+    Verificaá∆o de Uso                  : Enabled
+    Tempo de Atualizaá∆o da Revogaá∆o    : 0
+    Tempo Limite de Recuperaá∆o de URL        : 0
+    Identificador de Ctl               : (null)
+    Nome do Reposit¢rio de Ctl               : (null)
+    Uso do Mapeador de DS              : Disabled
+    Negociar Certificado de Cliente: Disabled
+    Rejeitar Conex‰es           : Disabled
+    Desabilitar HTTP2                : Not Set
+    Desabilitar QUIC                 : Not Set
+    Desabilitar TLS1.2               : Not Set
+    Desabilitar TLS1.3               : Not Set
+    Desabilitar Grampeamento OCSP        : Not Set
+    Habilitar Associaá∆o de Token         : Not Set
+    Registrar Eventos Estendidos          : Not Set
+    Desabilitar Vers‰es TLS Herdadas: Not Set
+    Habilitar T°quete de Sess∆o        : Not Set
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+
+
+    IP:porta                      : 0.0.0.0:44335
+    Hash de Certificado             : c250ad99ac75ff7251878711c0e4cd2129e860e7
+    ID do Aplicativo               : {214124cd-d05b-4309-9af9-9caa44b2b74a}
+    Nome do Reposit¢rio de Certificados       : MY
+    Verificar Revogaá∆o de Certificado de Cliente: Enabled
+    Verificar Revogaá∆o Usando Apenas Certificado de Cliente Armazenado em Cache: Disabled
+    Verificaá∆o de Uso                  : Enabled
+    Tempo de Atualizaá∆o da Revogaá∆o    : 0
+    Tempo Limite de Recuperaá∆o de URL        : 0
+    Identificador de Ctl               : (null)
+    Nome do Reposit¢rio de Ctl               : (null)
+    Uso do Mapeador de DS              : Disabled
+    Negociar Certificado de Cliente: Disabled
+    Rejeitar Conex‰es           : Disabled
+    Desabilitar HTTP2                : Not Set
+    Desabilitar QUIC                 : Not Set
+    Desabilitar TLS1.2               : Not Set
+    Desabilitar TLS1.3               : Not Set
+    Desabilitar Grampeamento OCSP        : Not Set
+    Habilitar Associaá∆o de Token         : Not Set
+    Registrar Eventos Estendidos          : Not Set
+    Desabilitar Vers‰es TLS Herdadas: Not Set
+    Habilitar T°quete de Sess∆o        : Not Set
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+
+
+    IP:porta                      : 0.0.0.0:44336
+    Hash de Certificado             : c250ad99ac75ff7251878711c0e4cd2129e860e7
+    ID do Aplicativo               : {214124cd-d05b-4309-9af9-9caa44b2b74a}
+    Nome do Reposit¢rio de Certificados       : MY
+    Verificar Revogaá∆o de Certificado de Cliente: Enabled
+    Verificar Revogaá∆o Usando Apenas Certificado de Cliente Armazenado em Cache: Disabled
+    Verificaá∆o de Uso                  : Enabled
+    Tempo de Atualizaá∆o da Revogaá∆o    : 0
+    Tempo Limite de Recuperaá∆o de URL        : 0
+    Identificador de Ctl               : (null)
+    Nome do Reposit¢rio de Ctl               : (null)
+    Uso do Mapeador de DS              : Disabled
+    Negociar Certificado de Cliente: Disabled
+    Rejeitar Conex‰es           : Disabled
+    Desabilitar HTTP2                : Not Set
+    Desabilitar QUIC                 : Not Set
+    Desabilitar TLS1.2               : Not Set
+    Desabilitar TLS1.3               : Not Set
+    Desabilitar Grampeamento OCSP        : Not Set
+    Habilitar Associaá∆o de Token         : Not Set
+    Registrar Eventos Estendidos          : Not Set
+    Desabilitar Vers‰es TLS Herdadas: Not Set
+    Habilitar T°quete de Sess∆o        : Not Set
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+
+
+    IP:porta                      : 0.0.0.0:44337
+    Hash de Certificado             : c250ad99ac75ff7251878711c0e4cd2129e860e7
+    ID do Aplicativo               : {214124cd-d05b-4309-9af9-9caa44b2b74a}
+    Nome do Reposit¢rio de Certificados       : MY
+    Verificar Revogaá∆o de Certificado de Cliente: Enabled
+    Verificar Revogaá∆o Usando Apenas Certificado de Cliente Armazenado em Cache: Disabled
+    Verificaá∆o de Uso                  : Enabled
+    Tempo de Atualizaá∆o da Revogaá∆o    : 0
+    Tempo Limite de Recuperaá∆o de URL        : 0
+    Identificador de Ctl               : (null)
+    Nome do Reposit¢rio de Ctl               : (null)
+    Uso do Mapeador de DS              : Disabled
+    Negociar Certificado de Cliente: Disabled
+    Rejeitar Conex‰es           : Disabled
+    Desabilitar HTTP2                : Not Set
+    Desabilitar QUIC                 : Not Set
+    Desabilitar TLS1.2               : Not Set
+    Desabilitar TLS1.3               : Not Set
+    Desabilitar Grampeamento OCSP        : Not Set
+    Habilitar Associaá∆o de Token         : Not Set
+    Registrar Eventos Estendidos          : Not Set
+    Desabilitar Vers‰es TLS Herdadas: Not Set
+    Habilitar T°quete de Sess∆o        : Not Set
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+
+
+    IP:porta                      : 0.0.0.0:44338
+    Hash de Certificado             : c250ad99ac75ff7251878711c0e4cd2129e860e7
+    ID do Aplicativo               : {214124cd-d05b-4309-9af9-9caa44b2b74a}
+    Nome do Reposit¢rio de Certificados       : MY
+    Verificar Revogaá∆o de Certificado de Cliente: Enabled
+    Verificar Revogaá∆o Usando Apenas Certificado de Cliente Armazenado em Cache: Disabled
+    Verificaá∆o de Uso                  : Enabled
+    Tempo de Atualizaá∆o da Revogaá∆o    : 0
+    Tempo Limite de Recuperaá∆o de URL        : 0
+    Identificador de Ctl               : (null)
+    Nome do Reposit¢rio de Ctl               : (null)
+    Uso do Mapeador de DS              : Disabled
+    Negociar Certificado de Cliente: Disabled
+    Rejeitar Conex‰es           : Disabled
+    Desabilitar HTTP2                : Not Set
+    Desabilitar QUIC                 : Not Set
+    Desabilitar TLS1.2               : Not Set
+    Desabilitar TLS1.3               : Not Set
+    Desabilitar Grampeamento OCSP        : Not Set
+    Habilitar Associaá∆o de Token         : Not Set
+    Registrar Eventos Estendidos          : Not Set
+    Desabilitar Vers‰es TLS Herdadas: Not Set
+    Habilitar T°quete de Sess∆o        : Not Set
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+
+
+    IP:porta                      : 0.0.0.0:44339
+    Hash de Certificado             : c250ad99ac75ff7251878711c0e4cd2129e860e7
+    ID do Aplicativo               : {214124cd-d05b-4309-9af9-9caa44b2b74a}
+    Nome do Reposit¢rio de Certificados       : MY
+    Verificar Revogaá∆o de Certificado de Cliente: Enabled
+    Verificar Revogaá∆o Usando Apenas Certificado de Cliente Armazenado em Cache: Disabled
+    Verificaá∆o de Uso                  : Enabled
+    Tempo de Atualizaá∆o da Revogaá∆o    : 0
+    Tempo Limite de Recuperaá∆o de URL        : 0
+    Identificador de Ctl               : (null)
+    Nome do Reposit¢rio de Ctl               : (null)
+    Uso do Mapeador de DS              : Disabled
+    Negociar Certificado de Cliente: Disabled
+    Rejeitar Conex‰es           : Disabled
+    Desabilitar HTTP2                : Not Set
+    Desabilitar QUIC                 : Not Set
+    Desabilitar TLS1.2               : Not Set
+    Desabilitar TLS1.3               : Not Set
+    Desabilitar Grampeamento OCSP        : Not Set
+    Habilitar Associaá∆o de Token         : Not Set
+    Registrar Eventos Estendidos          : Not Set
+    Desabilitar Vers‰es TLS Herdadas: Not Set
+    Habilitar T°quete de Sess∆o        : Not Set
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+
+
+    IP:porta                      : 0.0.0.0:44340
+    Hash de Certificado             : c250ad99ac75ff7251878711c0e4cd2129e860e7
+    ID do Aplicativo               : {214124cd-d05b-4309-9af9-9caa44b2b74a}
+    Nome do Reposit¢rio de Certificados       : MY
+    Verificar Revogaá∆o de Certificado de Cliente: Enabled
+    Verificar Revogaá∆o Usando Apenas Certificado de Cliente Armazenado em Cache: Disabled
+    Verificaá∆o de Uso                  : Enabled
+    Tempo de Atualizaá∆o da Revogaá∆o    : 0
+    Tempo Limite de Recuperaá∆o de URL        : 0
+    Identificador de Ctl               : (null)
+    Nome do Reposit¢rio de Ctl               : (null)
+    Uso do Mapeador de DS              : Disabled
+    Negociar Certificado de Cliente: Disabled
+    Rejeitar Conex‰es           : Disabled
+    Desabilitar HTTP2                : Not Set
+    Desabilitar QUIC                 : Not Set
+    Desabilitar TLS1.2               : Not Set
+    Desabilitar TLS1.3               : Not Set
+    Desabilitar Grampeamento OCSP        : Not Set
+    Habilitar Associaá∆o de Token         : Not Set
+    Registrar Eventos Estendidos          : Not Set
+    Desabilitar Vers‰es TLS Herdadas: Not Set
+    Habilitar T°quete de Sess∆o        : Not Set
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+
+
+    IP:porta                      : 0.0.0.0:44341
+    Hash de Certificado             : c250ad99ac75ff7251878711c0e4cd2129e860e7
+    ID do Aplicativo               : {214124cd-d05b-4309-9af9-9caa44b2b74a}
+    Nome do Reposit¢rio de Certificados       : MY
+    Verificar Revogaá∆o de Certificado de Cliente: Enabled
+    Verificar Revogaá∆o Usando Apenas Certificado de Cliente Armazenado em Cache: Disabled
+    Verificaá∆o de Uso                  : Enabled
+    Tempo de Atualizaá∆o da Revogaá∆o    : 0
+    Tempo Limite de Recuperaá∆o de URL        : 0
+    Identificador de Ctl               : (null)
+    Nome do Reposit¢rio de Ctl               : (null)
+    Uso do Mapeador de DS              : Disabled
+    Negociar Certificado de Cliente: Disabled
+    Rejeitar Conex‰es           : Disabled
+    Desabilitar HTTP2                : Not Set
+    Desabilitar QUIC                 : Not Set
+    Desabilitar TLS1.2               : Not Set
+    Desabilitar TLS1.3               : Not Set
+    Desabilitar Grampeamento OCSP        : Not Set
+    Habilitar Associaá∆o de Token         : Not Set
+    Registrar Eventos Estendidos          : Not Set
+    Desabilitar Vers‰es TLS Herdadas: Not Set
+    Habilitar T°quete de Sess∆o        : Not Set
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+
+
+    IP:porta                      : 0.0.0.0:44342
+    Hash de Certificado             : c250ad99ac75ff7251878711c0e4cd2129e860e7
+    ID do Aplicativo               : {214124cd-d05b-4309-9af9-9caa44b2b74a}
+    Nome do Reposit¢rio de Certificados       : MY
+    Verificar Revogaá∆o de Certificado de Cliente: Enabled
+    Verificar Revogaá∆o Usando Apenas Certificado de Cliente Armazenado em Cache: Disabled
+    Verificaá∆o de Uso                  : Enabled
+    Tempo de Atualizaá∆o da Revogaá∆o    : 0
+    Tempo Limite de Recuperaá∆o de URL        : 0
+    Identificador de Ctl               : (null)
+    Nome do Reposit¢rio de Ctl               : (null)
+    Uso do Mapeador de DS              : Disabled
+    Negociar Certificado de Cliente: Disabled
+    Rejeitar Conex‰es           : Disabled
+    Desabilitar HTTP2                : Not Set
+    Desabilitar QUIC                 : Not Set
+    Desabilitar TLS1.2               : Not Set
+    Desabilitar TLS1.3               : Not Set
+    Desabilitar Grampeamento OCSP        : Not Set
+    Habilitar Associaá∆o de Token         : Not Set
+    Registrar Eventos Estendidos          : Not Set
+    Desabilitar Vers‰es TLS Herdadas: Not Set
+    Habilitar T°quete de Sess∆o        : Not Set
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+
+
+    IP:porta                      : 0.0.0.0:44343
+    Hash de Certificado             : c250ad99ac75ff7251878711c0e4cd2129e860e7
+    ID do Aplicativo               : {214124cd-d05b-4309-9af9-9caa44b2b74a}
+    Nome do Reposit¢rio de Certificados       : MY
+    Verificar Revogaá∆o de Certificado de Cliente: Enabled
+    Verificar Revogaá∆o Usando Apenas Certificado de Cliente Armazenado em Cache: Disabled
+    Verificaá∆o de Uso                  : Enabled
+    Tempo de Atualizaá∆o da Revogaá∆o    : 0
+    Tempo Limite de Recuperaá∆o de URL        : 0
+    Identificador de Ctl               : (null)
+    Nome do Reposit¢rio de Ctl               : (null)
+    Uso do Mapeador de DS              : Disabled
+    Negociar Certificado de Cliente: Disabled
+    Rejeitar Conex‰es           : Disabled
+    Desabilitar HTTP2                : Not Set
+    Desabilitar QUIC                 : Not Set
+    Desabilitar TLS1.2               : Not Set
+    Desabilitar TLS1.3               : Not Set
+    Desabilitar Grampeamento OCSP        : Not Set
+    Habilitar Associaá∆o de Token         : Not Set
+    Registrar Eventos Estendidos          : Not Set
+    Desabilitar Vers‰es TLS Herdadas: Not Set
+    Habilitar T°quete de Sess∆o        : Not Set
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+
+
+    IP:porta                      : 0.0.0.0:44344
+    Hash de Certificado             : c250ad99ac75ff7251878711c0e4cd2129e860e7
+    ID do Aplicativo               : {214124cd-d05b-4309-9af9-9caa44b2b74a}
+    Nome do Reposit¢rio de Certificados       : MY
+    Verificar Revogaá∆o de Certificado de Cliente: Enabled
+    Verificar Revogaá∆o Usando Apenas Certificado de Cliente Armazenado em Cache: Disabled
+    Verificaá∆o de Uso                  : Enabled
+    Tempo de Atualizaá∆o da Revogaá∆o    : 0
+    Tempo Limite de Recuperaá∆o de URL        : 0
+    Identificador de Ctl               : (null)
+    Nome do Reposit¢rio de Ctl               : (null)
+    Uso do Mapeador de DS              : Disabled
+    Negociar Certificado de Cliente: Disabled
+    Rejeitar Conex‰es           : Disabled
+    Desabilitar HTTP2                : Not Set
+    Desabilitar QUIC                 : Not Set
+    Desabilitar TLS1.2               : Not Set
+    Desabilitar TLS1.3               : Not Set
+    Desabilitar Grampeamento OCSP        : Not Set
+    Habilitar Associaá∆o de Token         : Not Set
+    Registrar Eventos Estendidos          : Not Set
+    Desabilitar Vers‰es TLS Herdadas: Not Set
+    Habilitar T°quete de Sess∆o        : Not Set
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+
+
+    IP:porta                      : 0.0.0.0:44345
+    Hash de Certificado             : c250ad99ac75ff7251878711c0e4cd2129e860e7
+    ID do Aplicativo               : {214124cd-d05b-4309-9af9-9caa44b2b74a}
+    Nome do Reposit¢rio de Certificados       : MY
+    Verificar Revogaá∆o de Certificado de Cliente: Enabled
+    Verificar Revogaá∆o Usando Apenas Certificado de Cliente Armazenado em Cache: Disabled
+    Verificaá∆o de Uso                  : Enabled
+    Tempo de Atualizaá∆o da Revogaá∆o    : 0
+    Tempo Limite de Recuperaá∆o de URL        : 0
+    Identificador de Ctl               : (null)
+    Nome do Reposit¢rio de Ctl               : (null)
+    Uso do Mapeador de DS              : Disabled
+    Negociar Certificado de Cliente: Disabled
+    Rejeitar Conex‰es           : Disabled
+    Desabilitar HTTP2                : Not Set
+    Desabilitar QUIC                 : Not Set
+    Desabilitar TLS1.2               : Not Set
+    Desabilitar TLS1.3               : Not Set
+    Desabilitar Grampeamento OCSP        : Not Set
+    Habilitar Associaá∆o de Token         : Not Set
+    Registrar Eventos Estendidos          : Not Set
+    Desabilitar Vers‰es TLS Herdadas: Not Set
+    Habilitar T°quete de Sess∆o        : Not Set
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+
+
+    IP:porta                      : 0.0.0.0:44346
+    Hash de Certificado             : c250ad99ac75ff7251878711c0e4cd2129e860e7
+    ID do Aplicativo               : {214124cd-d05b-4309-9af9-9caa44b2b74a}
+    Nome do Reposit¢rio de Certificados       : MY
+    Verificar Revogaá∆o de Certificado de Cliente: Enabled
+    Verificar Revogaá∆o Usando Apenas Certificado de Cliente Armazenado em Cache: Disabled
+    Verificaá∆o de Uso                  : Enabled
+    Tempo de Atualizaá∆o da Revogaá∆o    : 0
+    Tempo Limite de Recuperaá∆o de URL        : 0
+    Identificador de Ctl               : (null)
+    Nome do Reposit¢rio de Ctl               : (null)
+    Uso do Mapeador de DS              : Disabled
+    Negociar Certificado de Cliente: Disabled
+    Rejeitar Conex‰es           : Disabled
+    Desabilitar HTTP2                : Not Set
+    Desabilitar QUIC                 : Not Set
+    Desabilitar TLS1.2               : Not Set
+    Desabilitar TLS1.3               : Not Set
+    Desabilitar Grampeamento OCSP        : Not Set
+    Habilitar Associaá∆o de Token         : Not Set
+    Registrar Eventos Estendidos          : Not Set
+    Desabilitar Vers‰es TLS Herdadas: Not Set
+    Habilitar T°quete de Sess∆o        : Not Set
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+
+
+    IP:porta                      : 0.0.0.0:44347
+    Hash de Certificado             : c250ad99ac75ff7251878711c0e4cd2129e860e7
+    ID do Aplicativo               : {214124cd-d05b-4309-9af9-9caa44b2b74a}
+    Nome do Reposit¢rio de Certificados       : MY
+    Verificar Revogaá∆o de Certificado de Cliente: Enabled
+    Verificar Revogaá∆o Usando Apenas Certificado de Cliente Armazenado em Cache: Disabled
+    Verificaá∆o de Uso                  : Enabled
+    Tempo de Atualizaá∆o da Revogaá∆o    : 0
+    Tempo Limite de Recuperaá∆o de URL        : 0
+    Identificador de Ctl               : (null)
+    Nome do Reposit¢rio de Ctl               : (null)
+    Uso do Mapeador de DS              : Disabled
+    Negociar Certificado de Cliente: Disabled
+    Rejeitar Conex‰es           : Disabled
+    Desabilitar HTTP2                : Not Set
+    Desabilitar QUIC                 : Not Set
+    Desabilitar TLS1.2               : Not Set
+    Desabilitar TLS1.3               : Not Set
+    Desabilitar Grampeamento OCSP        : Not Set
+    Habilitar Associaá∆o de Token         : Not Set
+    Registrar Eventos Estendidos          : Not Set
+    Desabilitar Vers‰es TLS Herdadas: Not Set
+    Habilitar T°quete de Sess∆o        : Not Set
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+
+
+    IP:porta                      : 0.0.0.0:44348
+    Hash de Certificado             : c250ad99ac75ff7251878711c0e4cd2129e860e7
+    ID do Aplicativo               : {214124cd-d05b-4309-9af9-9caa44b2b74a}
+    Nome do Reposit¢rio de Certificados       : MY
+    Verificar Revogaá∆o de Certificado de Cliente: Enabled
+    Verificar Revogaá∆o Usando Apenas Certificado de Cliente Armazenado em Cache: Disabled
+    Verificaá∆o de Uso                  : Enabled
+    Tempo de Atualizaá∆o da Revogaá∆o    : 0
+    Tempo Limite de Recuperaá∆o de URL        : 0
+    Identificador de Ctl               : (null)
+    Nome do Reposit¢rio de Ctl               : (null)
+    Uso do Mapeador de DS              : Disabled
+    Negociar Certificado de Cliente: Disabled
+    Rejeitar Conex‰es           : Disabled
+    Desabilitar HTTP2                : Not Set
+    Desabilitar QUIC                 : Not Set
+    Desabilitar TLS1.2               : Not Set
+    Desabilitar TLS1.3               : Not Set
+    Desabilitar Grampeamento OCSP        : Not Set
+    Habilitar Associaá∆o de Token         : Not Set
+    Registrar Eventos Estendidos          : Not Set
+    Desabilitar Vers‰es TLS Herdadas: Not Set
+    Habilitar T°quete de Sess∆o        : Not Set
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+
+
+    IP:porta                      : 0.0.0.0:44349
+    Hash de Certificado             : c250ad99ac75ff7251878711c0e4cd2129e860e7
+    ID do Aplicativo               : {214124cd-d05b-4309-9af9-9caa44b2b74a}
+    Nome do Reposit¢rio de Certificados       : MY
+    Verificar Revogaá∆o de Certificado de Cliente: Enabled
+    Verificar Revogaá∆o Usando Apenas Certificado de Cliente Armazenado em Cache: Disabled
+    Verificaá∆o de Uso                  : Enabled
+    Tempo de Atualizaá∆o da Revogaá∆o    : 0
+    Tempo Limite de Recuperaá∆o de URL        : 0
+    Identificador de Ctl               : (null)
+    Nome do Reposit¢rio de Ctl               : (null)
+    Uso do Mapeador de DS              : Disabled
+    Negociar Certificado de Cliente: Disabled
+    Rejeitar Conex‰es           : Disabled
+    Desabilitar HTTP2                : Not Set
+    Desabilitar QUIC                 : Not Set
+    Desabilitar TLS1.2               : Not Set
+    Desabilitar TLS1.3               : Not Set
+    Desabilitar Grampeamento OCSP        : Not Set
+    Habilitar Associaá∆o de Token         : Not Set
+    Registrar Eventos Estendidos          : Not Set
+    Desabilitar Vers‰es TLS Herdadas: Not Set
+    Habilitar T°quete de Sess∆o        : Not Set
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+
+
+    IP:porta                      : 0.0.0.0:44350
+    Hash de Certificado             : c250ad99ac75ff7251878711c0e4cd2129e860e7
+    ID do Aplicativo               : {214124cd-d05b-4309-9af9-9caa44b2b74a}
+    Nome do Reposit¢rio de Certificados       : MY
+    Verificar Revogaá∆o de Certificado de Cliente: Enabled
+    Verificar Revogaá∆o Usando Apenas Certificado de Cliente Armazenado em Cache: Disabled
+    Verificaá∆o de Uso                  : Enabled
+    Tempo de Atualizaá∆o da Revogaá∆o    : 0
+    Tempo Limite de Recuperaá∆o de URL        : 0
+    Identificador de Ctl               : (null)
+    Nome do Reposit¢rio de Ctl               : (null)
+    Uso do Mapeador de DS              : Disabled
+    Negociar Certificado de Cliente: Disabled
+    Rejeitar Conex‰es           : Disabled
+    Desabilitar HTTP2                : Not Set
+    Desabilitar QUIC                 : Not Set
+    Desabilitar TLS1.2               : Not Set
+    Desabilitar TLS1.3               : Not Set
+    Desabilitar Grampeamento OCSP        : Not Set
+    Habilitar Associaá∆o de Token         : Not Set
+    Registrar Eventos Estendidos          : Not Set
+    Desabilitar Vers‰es TLS Herdadas: Not Set
+    Habilitar T°quete de Sess∆o        : Not Set
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+
+
+    IP:porta                      : 0.0.0.0:44351
+    Hash de Certificado             : c250ad99ac75ff7251878711c0e4cd2129e860e7
+    ID do Aplicativo               : {214124cd-d05b-4309-9af9-9caa44b2b74a}
+    Nome do Reposit¢rio de Certificados       : MY
+    Verificar Revogaá∆o de Certificado de Cliente: Enabled
+    Verificar Revogaá∆o Usando Apenas Certificado de Cliente Armazenado em Cache: Disabled
+    Verificaá∆o de Uso                  : Enabled
+    Tempo de Atualizaá∆o da Revogaá∆o    : 0
+    Tempo Limite de Recuperaá∆o de URL        : 0
+    Identificador de Ctl               : (null)
+    Nome do Reposit¢rio de Ctl               : (null)
+    Uso do Mapeador de DS              : Disabled
+    Negociar Certificado de Cliente: Disabled
+    Rejeitar Conex‰es           : Disabled
+    Desabilitar HTTP2                : Not Set
+    Desabilitar QUIC                 : Not Set
+    Desabilitar TLS1.2               : Not Set
+    Desabilitar TLS1.3               : Not Set
+    Desabilitar Grampeamento OCSP        : Not Set
+    Habilitar Associaá∆o de Token         : Not Set
+    Registrar Eventos Estendidos          : Not Set
+    Desabilitar Vers‰es TLS Herdadas: Not Set
+    Habilitar T°quete de Sess∆o        : Not Set
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+
+
+    IP:porta                      : 0.0.0.0:44352
+    Hash de Certificado             : c250ad99ac75ff7251878711c0e4cd2129e860e7
+    ID do Aplicativo               : {214124cd-d05b-4309-9af9-9caa44b2b74a}
+    Nome do Reposit¢rio de Certificados       : MY
+    Verificar Revogaá∆o de Certificado de Cliente: Enabled
+    Verificar Revogaá∆o Usando Apenas Certificado de Cliente Armazenado em Cache: Disabled
+    Verificaá∆o de Uso                  : Enabled
+    Tempo de Atualizaá∆o da Revogaá∆o    : 0
+    Tempo Limite de Recuperaá∆o de URL        : 0
+    Identificador de Ctl               : (null)
+    Nome do Reposit¢rio de Ctl               : (null)
+    Uso do Mapeador de DS              : Disabled
+    Negociar Certificado de Cliente: Disabled
+    Rejeitar Conex‰es           : Disabled
+    Desabilitar HTTP2                : Not Set
+    Desabilitar QUIC                 : Not Set
+    Desabilitar TLS1.2               : Not Set
+    Desabilitar TLS1.3               : Not Set
+    Desabilitar Grampeamento OCSP        : Not Set
+    Habilitar Associaá∆o de Token         : Not Set
+    Registrar Eventos Estendidos          : Not Set
+    Desabilitar Vers‰es TLS Herdadas: Not Set
+    Habilitar T°quete de Sess∆o        : Not Set
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+
+
+    IP:porta                      : 0.0.0.0:44353
+    Hash de Certificado             : c250ad99ac75ff7251878711c0e4cd2129e860e7
+    ID do Aplicativo               : {214124cd-d05b-4309-9af9-9caa44b2b74a}
+    Nome do Reposit¢rio de Certificados       : MY
+    Verificar Revogaá∆o de Certificado de Cliente: Enabled
+    Verificar Revogaá∆o Usando Apenas Certificado de Cliente Armazenado em Cache: Disabled
+    Verificaá∆o de Uso                  : Enabled
+    Tempo de Atualizaá∆o da Revogaá∆o    : 0
+    Tempo Limite de Recuperaá∆o de URL        : 0
+    Identificador de Ctl               : (null)
+    Nome do Reposit¢rio de Ctl               : (null)
+    Uso do Mapeador de DS              : Disabled
+    Negociar Certificado de Cliente: Disabled
+    Rejeitar Conex‰es           : Disabled
+    Desabilitar HTTP2                : Not Set
+    Desabilitar QUIC                 : Not Set
+    Desabilitar TLS1.2               : Not Set
+    Desabilitar TLS1.3               : Not Set
+    Desabilitar Grampeamento OCSP        : Not Set
+    Habilitar Associaá∆o de Token         : Not Set
+    Registrar Eventos Estendidos          : Not Set
+    Desabilitar Vers‰es TLS Herdadas: Not Set
+    Habilitar T°quete de Sess∆o        : Not Set
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+
+
+    IP:porta                      : 0.0.0.0:44354
+    Hash de Certificado             : c250ad99ac75ff7251878711c0e4cd2129e860e7
+    ID do Aplicativo               : {214124cd-d05b-4309-9af9-9caa44b2b74a}
+    Nome do Reposit¢rio de Certificados       : MY
+    Verificar Revogaá∆o de Certificado de Cliente: Enabled
+    Verificar Revogaá∆o Usando Apenas Certificado de Cliente Armazenado em Cache: Disabled
+    Verificaá∆o de Uso                  : Enabled
+    Tempo de Atualizaá∆o da Revogaá∆o    : 0
+    Tempo Limite de Recuperaá∆o de URL        : 0
+    Identificador de Ctl               : (null)
+    Nome do Reposit¢rio de Ctl               : (null)
+    Uso do Mapeador de DS              : Disabled
+    Negociar Certificado de Cliente: Disabled
+    Rejeitar Conex‰es           : Disabled
+    Desabilitar HTTP2                : Not Set
+    Desabilitar QUIC                 : Not Set
+    Desabilitar TLS1.2               : Not Set
+    Desabilitar TLS1.3               : Not Set
+    Desabilitar Grampeamento OCSP        : Not Set
+    Habilitar Associaá∆o de Token         : Not Set
+    Registrar Eventos Estendidos          : Not Set
+    Desabilitar Vers‰es TLS Herdadas: Not Set
+    Habilitar T°quete de Sess∆o        : Not Set
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+
+
+    IP:porta                      : 0.0.0.0:44355
+    Hash de Certificado             : c250ad99ac75ff7251878711c0e4cd2129e860e7
+    ID do Aplicativo               : {214124cd-d05b-4309-9af9-9caa44b2b74a}
+    Nome do Reposit¢rio de Certificados       : MY
+    Verificar Revogaá∆o de Certificado de Cliente: Enabled
+    Verificar Revogaá∆o Usando Apenas Certificado de Cliente Armazenado em Cache: Disabled
+    Verificaá∆o de Uso                  : Enabled
+    Tempo de Atualizaá∆o da Revogaá∆o    : 0
+    Tempo Limite de Recuperaá∆o de URL        : 0
+    Identificador de Ctl               : (null)
+    Nome do Reposit¢rio de Ctl               : (null)
+    Uso do Mapeador de DS              : Disabled
+    Negociar Certificado de Cliente: Disabled
+    Rejeitar Conex‰es           : Disabled
+    Desabilitar HTTP2                : Not Set
+    Desabilitar QUIC                 : Not Set
+    Desabilitar TLS1.2               : Not Set
+    Desabilitar TLS1.3               : Not Set
+    Desabilitar Grampeamento OCSP        : Not Set
+    Habilitar Associaá∆o de Token         : Not Set
+    Registrar Eventos Estendidos          : Not Set
+    Desabilitar Vers‰es TLS Herdadas: Not Set
+    Habilitar T°quete de Sess∆o        : Not Set
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+
+
+    IP:porta                      : 0.0.0.0:44356
+    Hash de Certificado             : c250ad99ac75ff7251878711c0e4cd2129e860e7
+    ID do Aplicativo               : {214124cd-d05b-4309-9af9-9caa44b2b74a}
+    Nome do Reposit¢rio de Certificados       : MY
+    Verificar Revogaá∆o de Certificado de Cliente: Enabled
+    Verificar Revogaá∆o Usando Apenas Certificado de Cliente Armazenado em Cache: Disabled
+    Verificaá∆o de Uso                  : Enabled
+    Tempo de Atualizaá∆o da Revogaá∆o    : 0
+    Tempo Limite de Recuperaá∆o de URL        : 0
+    Identificador de Ctl               : (null)
+    Nome do Reposit¢rio de Ctl               : (null)
+    Uso do Mapeador de DS              : Disabled
+    Negociar Certificado de Cliente: Disabled
+    Rejeitar Conex‰es           : Disabled
+    Desabilitar HTTP2                : Not Set
+    Desabilitar QUIC                 : Not Set
+    Desabilitar TLS1.2               : Not Set
+    Desabilitar TLS1.3               : Not Set
+    Desabilitar Grampeamento OCSP        : Not Set
+    Habilitar Associaá∆o de Token         : Not Set
+    Registrar Eventos Estendidos          : Not Set
+    Desabilitar Vers‰es TLS Herdadas: Not Set
+    Habilitar T°quete de Sess∆o        : Not Set
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+
+
+    IP:porta                      : 0.0.0.0:44357
+    Hash de Certificado             : c250ad99ac75ff7251878711c0e4cd2129e860e7
+    ID do Aplicativo               : {214124cd-d05b-4309-9af9-9caa44b2b74a}
+    Nome do Reposit¢rio de Certificados       : MY
+    Verificar Revogaá∆o de Certificado de Cliente: Enabled
+    Verificar Revogaá∆o Usando Apenas Certificado de Cliente Armazenado em Cache: Disabled
+    Verificaá∆o de Uso                  : Enabled
+    Tempo de Atualizaá∆o da Revogaá∆o    : 0
+    Tempo Limite de Recuperaá∆o de URL        : 0
+    Identificador de Ctl               : (null)
+    Nome do Reposit¢rio de Ctl               : (null)
+    Uso do Mapeador de DS              : Disabled
+    Negociar Certificado de Cliente: Disabled
+    Rejeitar Conex‰es           : Disabled
+    Desabilitar HTTP2                : Not Set
+    Desabilitar QUIC                 : Not Set
+    Desabilitar TLS1.2               : Not Set
+    Desabilitar TLS1.3               : Not Set
+    Desabilitar Grampeamento OCSP        : Not Set
+    Habilitar Associaá∆o de Token         : Not Set
+    Registrar Eventos Estendidos          : Not Set
+    Desabilitar Vers‰es TLS Herdadas: Not Set
+    Habilitar T°quete de Sess∆o        : Not Set
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+
+
+    IP:porta                      : 0.0.0.0:44358
+    Hash de Certificado             : c250ad99ac75ff7251878711c0e4cd2129e860e7
+    ID do Aplicativo               : {214124cd-d05b-4309-9af9-9caa44b2b74a}
+    Nome do Reposit¢rio de Certificados       : MY
+    Verificar Revogaá∆o de Certificado de Cliente: Enabled
+    Verificar Revogaá∆o Usando Apenas Certificado de Cliente Armazenado em Cache: Disabled
+    Verificaá∆o de Uso                  : Enabled
+    Tempo de Atualizaá∆o da Revogaá∆o    : 0
+    Tempo Limite de Recuperaá∆o de URL        : 0
+    Identificador de Ctl               : (null)
+    Nome do Reposit¢rio de Ctl               : (null)
+    Uso do Mapeador de DS              : Disabled
+    Negociar Certificado de Cliente: Disabled
+    Rejeitar Conex‰es           : Disabled
+    Desabilitar HTTP2                : Not Set
+    Desabilitar QUIC                 : Not Set
+    Desabilitar TLS1.2               : Not Set
+    Desabilitar TLS1.3               : Not Set
+    Desabilitar Grampeamento OCSP        : Not Set
+    Habilitar Associaá∆o de Token         : Not Set
+    Registrar Eventos Estendidos          : Not Set
+    Desabilitar Vers‰es TLS Herdadas: Not Set
+    Habilitar T°quete de Sess∆o        : Not Set
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+
+
+    IP:porta                      : 0.0.0.0:44359
+    Hash de Certificado             : c250ad99ac75ff7251878711c0e4cd2129e860e7
+    ID do Aplicativo               : {214124cd-d05b-4309-9af9-9caa44b2b74a}
+    Nome do Reposit¢rio de Certificados       : MY
+    Verificar Revogaá∆o de Certificado de Cliente: Enabled
+    Verificar Revogaá∆o Usando Apenas Certificado de Cliente Armazenado em Cache: Disabled
+    Verificaá∆o de Uso                  : Enabled
+    Tempo de Atualizaá∆o da Revogaá∆o    : 0
+    Tempo Limite de Recuperaá∆o de URL        : 0
+    Identificador de Ctl               : (null)
+    Nome do Reposit¢rio de Ctl               : (null)
+    Uso do Mapeador de DS              : Disabled
+    Negociar Certificado de Cliente: Disabled
+    Rejeitar Conex‰es           : Disabled
+    Desabilitar HTTP2                : Not Set
+    Desabilitar QUIC                 : Not Set
+    Desabilitar TLS1.2               : Not Set
+    Desabilitar TLS1.3               : Not Set
+    Desabilitar Grampeamento OCSP        : Not Set
+    Habilitar Associaá∆o de Token         : Not Set
+    Registrar Eventos Estendidos          : Not Set
+    Desabilitar Vers‰es TLS Herdadas: Not Set
+    Habilitar T°quete de Sess∆o        : Not Set
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+
+
+    IP:porta                      : 0.0.0.0:44360
+    Hash de Certificado             : c250ad99ac75ff7251878711c0e4cd2129e860e7
+    ID do Aplicativo               : {214124cd-d05b-4309-9af9-9caa44b2b74a}
+    Nome do Reposit¢rio de Certificados       : MY
+    Verificar Revogaá∆o de Certificado de Cliente: Enabled
+    Verificar Revogaá∆o Usando Apenas Certificado de Cliente Armazenado em Cache: Disabled
+    Verificaá∆o de Uso                  : Enabled
+    Tempo de Atualizaá∆o da Revogaá∆o    : 0
+    Tempo Limite de Recuperaá∆o de URL        : 0
+    Identificador de Ctl               : (null)
+    Nome do Reposit¢rio de Ctl               : (null)
+    Uso do Mapeador de DS              : Disabled
+    Negociar Certificado de Cliente: Disabled
+    Rejeitar Conex‰es           : Disabled
+    Desabilitar HTTP2                : Not Set
+    Desabilitar QUIC                 : Not Set
+    Desabilitar TLS1.2               : Not Set
+    Desabilitar TLS1.3               : Not Set
+    Desabilitar Grampeamento OCSP        : Not Set
+    Habilitar Associaá∆o de Token         : Not Set
+    Registrar Eventos Estendidos          : Not Set
+    Desabilitar Vers‰es TLS Herdadas: Not Set
+    Habilitar T°quete de Sess∆o        : Not Set
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+
+
+    IP:porta                      : 0.0.0.0:44361
+    Hash de Certificado             : c250ad99ac75ff7251878711c0e4cd2129e860e7
+    ID do Aplicativo               : {214124cd-d05b-4309-9af9-9caa44b2b74a}
+    Nome do Reposit¢rio de Certificados       : MY
+    Verificar Revogaá∆o de Certificado de Cliente: Enabled
+    Verificar Revogaá∆o Usando Apenas Certificado de Cliente Armazenado em Cache: Disabled
+    Verificaá∆o de Uso                  : Enabled
+    Tempo de Atualizaá∆o da Revogaá∆o    : 0
+    Tempo Limite de Recuperaá∆o de URL        : 0
+    Identificador de Ctl               : (null)
+    Nome do Reposit¢rio de Ctl               : (null)
+    Uso do Mapeador de DS              : Disabled
+    Negociar Certificado de Cliente: Disabled
+    Rejeitar Conex‰es           : Disabled
+    Desabilitar HTTP2                : Not Set
+    Desabilitar QUIC                 : Not Set
+    Desabilitar TLS1.2               : Not Set
+    Desabilitar TLS1.3               : Not Set
+    Desabilitar Grampeamento OCSP        : Not Set
+    Habilitar Associaá∆o de Token         : Not Set
+    Registrar Eventos Estendidos          : Not Set
+    Desabilitar Vers‰es TLS Herdadas: Not Set
+    Habilitar T°quete de Sess∆o        : Not Set
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+
+
+    IP:porta                      : 0.0.0.0:44362
+    Hash de Certificado             : c250ad99ac75ff7251878711c0e4cd2129e860e7
+    ID do Aplicativo               : {214124cd-d05b-4309-9af9-9caa44b2b74a}
+    Nome do Reposit¢rio de Certificados       : MY
+    Verificar Revogaá∆o de Certificado de Cliente: Enabled
+    Verificar Revogaá∆o Usando Apenas Certificado de Cliente Armazenado em Cache: Disabled
+    Verificaá∆o de Uso                  : Enabled
+    Tempo de Atualizaá∆o da Revogaá∆o    : 0
+    Tempo Limite de Recuperaá∆o de URL        : 0
+    Identificador de Ctl               : (null)
+    Nome do Reposit¢rio de Ctl               : (null)
+    Uso do Mapeador de DS              : Disabled
+    Negociar Certificado de Cliente: Disabled
+    Rejeitar Conex‰es           : Disabled
+    Desabilitar HTTP2                : Not Set
+    Desabilitar QUIC                 : Not Set
+    Desabilitar TLS1.2               : Not Set
+    Desabilitar TLS1.3               : Not Set
+    Desabilitar Grampeamento OCSP        : Not Set
+    Habilitar Associaá∆o de Token         : Not Set
+    Registrar Eventos Estendidos          : Not Set
+    Desabilitar Vers‰es TLS Herdadas: Not Set
+    Habilitar T°quete de Sess∆o        : Not Set
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+
+
+    IP:porta                      : 0.0.0.0:44363
+    Hash de Certificado             : c250ad99ac75ff7251878711c0e4cd2129e860e7
+    ID do Aplicativo               : {214124cd-d05b-4309-9af9-9caa44b2b74a}
+    Nome do Reposit¢rio de Certificados       : MY
+    Verificar Revogaá∆o de Certificado de Cliente: Enabled
+    Verificar Revogaá∆o Usando Apenas Certificado de Cliente Armazenado em Cache: Disabled
+    Verificaá∆o de Uso                  : Enabled
+    Tempo de Atualizaá∆o da Revogaá∆o    : 0
+    Tempo Limite de Recuperaá∆o de URL        : 0
+    Identificador de Ctl               : (null)
+    Nome do Reposit¢rio de Ctl               : (null)
+    Uso do Mapeador de DS              : Disabled
+    Negociar Certificado de Cliente: Disabled
+    Rejeitar Conex‰es           : Disabled
+    Desabilitar HTTP2                : Not Set
+    Desabilitar QUIC                 : Not Set
+    Desabilitar TLS1.2               : Not Set
+    Desabilitar TLS1.3               : Not Set
+    Desabilitar Grampeamento OCSP        : Not Set
+    Habilitar Associaá∆o de Token         : Not Set
+    Registrar Eventos Estendidos          : Not Set
+    Desabilitar Vers‰es TLS Herdadas: Not Set
+    Habilitar T°quete de Sess∆o        : Not Set
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+
+
+    IP:porta                      : 0.0.0.0:44364
+    Hash de Certificado             : c250ad99ac75ff7251878711c0e4cd2129e860e7
+    ID do Aplicativo               : {214124cd-d05b-4309-9af9-9caa44b2b74a}
+    Nome do Reposit¢rio de Certificados       : MY
+    Verificar Revogaá∆o de Certificado de Cliente: Enabled
+    Verificar Revogaá∆o Usando Apenas Certificado de Cliente Armazenado em Cache: Disabled
+    Verificaá∆o de Uso                  : Enabled
+    Tempo de Atualizaá∆o da Revogaá∆o    : 0
+    Tempo Limite de Recuperaá∆o de URL        : 0
+    Identificador de Ctl               : (null)
+    Nome do Reposit¢rio de Ctl               : (null)
+    Uso do Mapeador de DS              : Disabled
+    Negociar Certificado de Cliente: Disabled
+    Rejeitar Conex‰es           : Disabled
+    Desabilitar HTTP2                : Not Set
+    Desabilitar QUIC                 : Not Set
+    Desabilitar TLS1.2               : Not Set
+    Desabilitar TLS1.3               : Not Set
+    Desabilitar Grampeamento OCSP        : Not Set
+    Habilitar Associaá∆o de Token         : Not Set
+    Registrar Eventos Estendidos          : Not Set
+    Desabilitar Vers‰es TLS Herdadas: Not Set
+    Habilitar T°quete de Sess∆o        : Not Set
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+
+
+    IP:porta                      : 0.0.0.0:44365
+    Hash de Certificado             : c250ad99ac75ff7251878711c0e4cd2129e860e7
+    ID do Aplicativo               : {214124cd-d05b-4309-9af9-9caa44b2b74a}
+    Nome do Reposit¢rio de Certificados       : MY
+    Verificar Revogaá∆o de Certificado de Cliente: Enabled
+    Verificar Revogaá∆o Usando Apenas Certificado de Cliente Armazenado em Cache: Disabled
+    Verificaá∆o de Uso                  : Enabled
+    Tempo de Atualizaá∆o da Revogaá∆o    : 0
+    Tempo Limite de Recuperaá∆o de URL        : 0
+    Identificador de Ctl               : (null)
+    Nome do Reposit¢rio de Ctl               : (null)
+    Uso do Mapeador de DS              : Disabled
+    Negociar Certificado de Cliente: Disabled
+    Rejeitar Conex‰es           : Disabled
+    Desabilitar HTTP2                : Not Set
+    Desabilitar QUIC                 : Not Set
+    Desabilitar TLS1.2               : Not Set
+    Desabilitar TLS1.3               : Not Set
+    Desabilitar Grampeamento OCSP        : Not Set
+    Habilitar Associaá∆o de Token         : Not Set
+    Registrar Eventos Estendidos          : Not Set
+    Desabilitar Vers‰es TLS Herdadas: Not Set
+    Habilitar T°quete de Sess∆o        : Not Set
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+
+
+    IP:porta                      : 0.0.0.0:44366
+    Hash de Certificado             : c250ad99ac75ff7251878711c0e4cd2129e860e7
+    ID do Aplicativo               : {214124cd-d05b-4309-9af9-9caa44b2b74a}
+    Nome do Reposit¢rio de Certificados       : MY
+    Verificar Revogaá∆o de Certificado de Cliente: Enabled
+    Verificar Revogaá∆o Usando Apenas Certificado de Cliente Armazenado em Cache: Disabled
+    Verificaá∆o de Uso                  : Enabled
+    Tempo de Atualizaá∆o da Revogaá∆o    : 0
+    Tempo Limite de Recuperaá∆o de URL        : 0
+    Identificador de Ctl               : (null)
+    Nome do Reposit¢rio de Ctl               : (null)
+    Uso do Mapeador de DS              : Disabled
+    Negociar Certificado de Cliente: Disabled
+    Rejeitar Conex‰es           : Disabled
+    Desabilitar HTTP2                : Not Set
+    Desabilitar QUIC                 : Not Set
+    Desabilitar TLS1.2               : Not Set
+    Desabilitar TLS1.3               : Not Set
+    Desabilitar Grampeamento OCSP        : Not Set
+    Habilitar Associaá∆o de Token         : Not Set
+    Registrar Eventos Estendidos          : Not Set
+    Desabilitar Vers‰es TLS Herdadas: Not Set
+    Habilitar T°quete de Sess∆o        : Not Set
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+
+
+    IP:porta                      : 0.0.0.0:44367
+    Hash de Certificado             : c250ad99ac75ff7251878711c0e4cd2129e860e7
+    ID do Aplicativo               : {214124cd-d05b-4309-9af9-9caa44b2b74a}
+    Nome do Reposit¢rio de Certificados       : MY
+    Verificar Revogaá∆o de Certificado de Cliente: Enabled
+    Verificar Revogaá∆o Usando Apenas Certificado de Cliente Armazenado em Cache: Disabled
+    Verificaá∆o de Uso                  : Enabled
+    Tempo de Atualizaá∆o da Revogaá∆o    : 0
+    Tempo Limite de Recuperaá∆o de URL        : 0
+    Identificador de Ctl               : (null)
+    Nome do Reposit¢rio de Ctl               : (null)
+    Uso do Mapeador de DS              : Disabled
+    Negociar Certificado de Cliente: Disabled
+    Rejeitar Conex‰es           : Disabled
+    Desabilitar HTTP2                : Not Set
+    Desabilitar QUIC                 : Not Set
+    Desabilitar TLS1.2               : Not Set
+    Desabilitar TLS1.3               : Not Set
+    Desabilitar Grampeamento OCSP        : Not Set
+    Habilitar Associaá∆o de Token         : Not Set
+    Registrar Eventos Estendidos          : Not Set
+    Desabilitar Vers‰es TLS Herdadas: Not Set
+    Habilitar T°quete de Sess∆o        : Not Set
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+
+
+    IP:porta                      : 0.0.0.0:44368
+    Hash de Certificado             : c250ad99ac75ff7251878711c0e4cd2129e860e7
+    ID do Aplicativo               : {214124cd-d05b-4309-9af9-9caa44b2b74a}
+    Nome do Reposit¢rio de Certificados       : MY
+    Verificar Revogaá∆o de Certificado de Cliente: Enabled
+    Verificar Revogaá∆o Usando Apenas Certificado de Cliente Armazenado em Cache: Disabled
+    Verificaá∆o de Uso                  : Enabled
+    Tempo de Atualizaá∆o da Revogaá∆o    : 0
+    Tempo Limite de Recuperaá∆o de URL        : 0
+    Identificador de Ctl               : (null)
+    Nome do Reposit¢rio de Ctl               : (null)
+    Uso do Mapeador de DS              : Disabled
+    Negociar Certificado de Cliente: Disabled
+    Rejeitar Conex‰es           : Disabled
+    Desabilitar HTTP2                : Not Set
+    Desabilitar QUIC                 : Not Set
+    Desabilitar TLS1.2               : Not Set
+    Desabilitar TLS1.3               : Not Set
+    Desabilitar Grampeamento OCSP        : Not Set
+    Habilitar Associaá∆o de Token         : Not Set
+    Registrar Eventos Estendidos          : Not Set
+    Desabilitar Vers‰es TLS Herdadas: Not Set
+    Habilitar T°quete de Sess∆o        : Not Set
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+
+
+    IP:porta                      : 0.0.0.0:44369
+    Hash de Certificado             : c250ad99ac75ff7251878711c0e4cd2129e860e7
+    ID do Aplicativo               : {214124cd-d05b-4309-9af9-9caa44b2b74a}
+    Nome do Reposit¢rio de Certificados       : MY
+    Verificar Revogaá∆o de Certificado de Cliente: Enabled
+    Verificar Revogaá∆o Usando Apenas Certificado de Cliente Armazenado em Cache: Disabled
+    Verificaá∆o de Uso                  : Enabled
+    Tempo de Atualizaá∆o da Revogaá∆o    : 0
+    Tempo Limite de Recuperaá∆o de URL        : 0
+    Identificador de Ctl               : (null)
+    Nome do Reposit¢rio de Ctl               : (null)
+    Uso do Mapeador de DS              : Disabled
+    Negociar Certificado de Cliente: Disabled
+    Rejeitar Conex‰es           : Disabled
+    Desabilitar HTTP2                : Not Set
+    Desabilitar QUIC                 : Not Set
+    Desabilitar TLS1.2               : Not Set
+    Desabilitar TLS1.3               : Not Set
+    Desabilitar Grampeamento OCSP        : Not Set
+    Habilitar Associaá∆o de Token         : Not Set
+    Registrar Eventos Estendidos          : Not Set
+    Desabilitar Vers‰es TLS Herdadas: Not Set
+    Habilitar T°quete de Sess∆o        : Not Set
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+
+
+    IP:porta                      : 0.0.0.0:44370
+    Hash de Certificado             : c250ad99ac75ff7251878711c0e4cd2129e860e7
+    ID do Aplicativo               : {214124cd-d05b-4309-9af9-9caa44b2b74a}
+    Nome do Reposit¢rio de Certificados       : MY
+    Verificar Revogaá∆o de Certificado de Cliente: Enabled
+    Verificar Revogaá∆o Usando Apenas Certificado de Cliente Armazenado em Cache: Disabled
+    Verificaá∆o de Uso                  : Enabled
+    Tempo de Atualizaá∆o da Revogaá∆o    : 0
+    Tempo Limite de Recuperaá∆o de URL        : 0
+    Identificador de Ctl               : (null)
+    Nome do Reposit¢rio de Ctl               : (null)
+    Uso do Mapeador de DS              : Disabled
+    Negociar Certificado de Cliente: Disabled
+    Rejeitar Conex‰es           : Disabled
+    Desabilitar HTTP2                : Not Set
+    Desabilitar QUIC                 : Not Set
+    Desabilitar TLS1.2               : Not Set
+    Desabilitar TLS1.3               : Not Set
+    Desabilitar Grampeamento OCSP        : Not Set
+    Habilitar Associaá∆o de Token         : Not Set
+    Registrar Eventos Estendidos          : Not Set
+    Desabilitar Vers‰es TLS Herdadas: Not Set
+    Habilitar T°quete de Sess∆o        : Not Set
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+
+
+    IP:porta                      : 0.0.0.0:44371
+    Hash de Certificado             : c250ad99ac75ff7251878711c0e4cd2129e860e7
+    ID do Aplicativo               : {214124cd-d05b-4309-9af9-9caa44b2b74a}
+    Nome do Reposit¢rio de Certificados       : MY
+    Verificar Revogaá∆o de Certificado de Cliente: Enabled
+    Verificar Revogaá∆o Usando Apenas Certificado de Cliente Armazenado em Cache: Disabled
+    Verificaá∆o de Uso                  : Enabled
+    Tempo de Atualizaá∆o da Revogaá∆o    : 0
+    Tempo Limite de Recuperaá∆o de URL        : 0
+    Identificador de Ctl               : (null)
+    Nome do Reposit¢rio de Ctl               : (null)
+    Uso do Mapeador de DS              : Disabled
+    Negociar Certificado de Cliente: Disabled
+    Rejeitar Conex‰es           : Disabled
+    Desabilitar HTTP2                : Not Set
+    Desabilitar QUIC                 : Not Set
+    Desabilitar TLS1.2               : Not Set
+    Desabilitar TLS1.3               : Not Set
+    Desabilitar Grampeamento OCSP        : Not Set
+    Habilitar Associaá∆o de Token         : Not Set
+    Registrar Eventos Estendidos          : Not Set
+    Desabilitar Vers‰es TLS Herdadas: Not Set
+    Habilitar T°quete de Sess∆o        : Not Set
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+
+
+    IP:porta                      : 0.0.0.0:44372
+    Hash de Certificado             : c250ad99ac75ff7251878711c0e4cd2129e860e7
+    ID do Aplicativo               : {214124cd-d05b-4309-9af9-9caa44b2b74a}
+    Nome do Reposit¢rio de Certificados       : MY
+    Verificar Revogaá∆o de Certificado de Cliente: Enabled
+    Verificar Revogaá∆o Usando Apenas Certificado de Cliente Armazenado em Cache: Disabled
+    Verificaá∆o de Uso                  : Enabled
+    Tempo de Atualizaá∆o da Revogaá∆o    : 0
+    Tempo Limite de Recuperaá∆o de URL        : 0
+    Identificador de Ctl               : (null)
+    Nome do Reposit¢rio de Ctl               : (null)
+    Uso do Mapeador de DS              : Disabled
+    Negociar Certificado de Cliente: Disabled
+    Rejeitar Conex‰es           : Disabled
+    Desabilitar HTTP2                : Not Set
+    Desabilitar QUIC                 : Not Set
+    Desabilitar TLS1.2               : Not Set
+    Desabilitar TLS1.3               : Not Set
+    Desabilitar Grampeamento OCSP        : Not Set
+    Habilitar Associaá∆o de Token         : Not Set
+    Registrar Eventos Estendidos          : Not Set
+    Desabilitar Vers‰es TLS Herdadas: Not Set
+    Habilitar T°quete de Sess∆o        : Not Set
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+
+
+    IP:porta                      : 0.0.0.0:44373
+    Hash de Certificado             : c250ad99ac75ff7251878711c0e4cd2129e860e7
+    ID do Aplicativo               : {214124cd-d05b-4309-9af9-9caa44b2b74a}
+    Nome do Reposit¢rio de Certificados       : MY
+    Verificar Revogaá∆o de Certificado de Cliente: Enabled
+    Verificar Revogaá∆o Usando Apenas Certificado de Cliente Armazenado em Cache: Disabled
+    Verificaá∆o de Uso                  : Enabled
+    Tempo de Atualizaá∆o da Revogaá∆o    : 0
+    Tempo Limite de Recuperaá∆o de URL        : 0
+    Identificador de Ctl               : (null)
+    Nome do Reposit¢rio de Ctl               : (null)
+    Uso do Mapeador de DS              : Disabled
+    Negociar Certificado de Cliente: Disabled
+    Rejeitar Conex‰es           : Disabled
+    Desabilitar HTTP2                : Not Set
+    Desabilitar QUIC                 : Not Set
+    Desabilitar TLS1.2               : Not Set
+    Desabilitar TLS1.3               : Not Set
+    Desabilitar Grampeamento OCSP        : Not Set
+    Habilitar Associaá∆o de Token         : Not Set
+    Registrar Eventos Estendidos          : Not Set
+    Desabilitar Vers‰es TLS Herdadas: Not Set
+    Habilitar T°quete de Sess∆o        : Not Set
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+
+
+    IP:porta                      : 0.0.0.0:44374
+    Hash de Certificado             : c250ad99ac75ff7251878711c0e4cd2129e860e7
+    ID do Aplicativo               : {214124cd-d05b-4309-9af9-9caa44b2b74a}
+    Nome do Reposit¢rio de Certificados       : MY
+    Verificar Revogaá∆o de Certificado de Cliente: Enabled
+    Verificar Revogaá∆o Usando Apenas Certificado de Cliente Armazenado em Cache: Disabled
+    Verificaá∆o de Uso                  : Enabled
+    Tempo de Atualizaá∆o da Revogaá∆o    : 0
+    Tempo Limite de Recuperaá∆o de URL        : 0
+    Identificador de Ctl               : (null)
+    Nome do Reposit¢rio de Ctl               : (null)
+    Uso do Mapeador de DS              : Disabled
+    Negociar Certificado de Cliente: Disabled
+    Rejeitar Conex‰es           : Disabled
+    Desabilitar HTTP2                : Not Set
+    Desabilitar QUIC                 : Not Set
+    Desabilitar TLS1.2               : Not Set
+    Desabilitar TLS1.3               : Not Set
+    Desabilitar Grampeamento OCSP        : Not Set
+    Habilitar Associaá∆o de Token         : Not Set
+    Registrar Eventos Estendidos          : Not Set
+    Desabilitar Vers‰es TLS Herdadas: Not Set
+    Habilitar T°quete de Sess∆o        : Not Set
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+
+
+    IP:porta                      : 0.0.0.0:44375
+    Hash de Certificado             : c250ad99ac75ff7251878711c0e4cd2129e860e7
+    ID do Aplicativo               : {214124cd-d05b-4309-9af9-9caa44b2b74a}
+    Nome do Reposit¢rio de Certificados       : MY
+    Verificar Revogaá∆o de Certificado de Cliente: Enabled
+    Verificar Revogaá∆o Usando Apenas Certificado de Cliente Armazenado em Cache: Disabled
+    Verificaá∆o de Uso                  : Enabled
+    Tempo de Atualizaá∆o da Revogaá∆o    : 0
+    Tempo Limite de Recuperaá∆o de URL        : 0
+    Identificador de Ctl               : (null)
+    Nome do Reposit¢rio de Ctl               : (null)
+    Uso do Mapeador de DS              : Disabled
+    Negociar Certificado de Cliente: Disabled
+    Rejeitar Conex‰es           : Disabled
+    Desabilitar HTTP2                : Not Set
+    Desabilitar QUIC                 : Not Set
+    Desabilitar TLS1.2               : Not Set
+    Desabilitar TLS1.3               : Not Set
+    Desabilitar Grampeamento OCSP        : Not Set
+    Habilitar Associaá∆o de Token         : Not Set
+    Registrar Eventos Estendidos          : Not Set
+    Desabilitar Vers‰es TLS Herdadas: Not Set
+    Habilitar T°quete de Sess∆o        : Not Set
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+
+
+    IP:porta                      : 0.0.0.0:44376
+    Hash de Certificado             : c250ad99ac75ff7251878711c0e4cd2129e860e7
+    ID do Aplicativo               : {214124cd-d05b-4309-9af9-9caa44b2b74a}
+    Nome do Reposit¢rio de Certificados       : MY
+    Verificar Revogaá∆o de Certificado de Cliente: Enabled
+    Verificar Revogaá∆o Usando Apenas Certificado de Cliente Armazenado em Cache: Disabled
+    Verificaá∆o de Uso                  : Enabled
+    Tempo de Atualizaá∆o da Revogaá∆o    : 0
+    Tempo Limite de Recuperaá∆o de URL        : 0
+    Identificador de Ctl               : (null)
+    Nome do Reposit¢rio de Ctl               : (null)
+    Uso do Mapeador de DS              : Disabled
+    Negociar Certificado de Cliente: Disabled
+    Rejeitar Conex‰es           : Disabled
+    Desabilitar HTTP2                : Not Set
+    Desabilitar QUIC                 : Not Set
+    Desabilitar TLS1.2               : Not Set
+    Desabilitar TLS1.3               : Not Set
+    Desabilitar Grampeamento OCSP        : Not Set
+    Habilitar Associaá∆o de Token         : Not Set
+    Registrar Eventos Estendidos          : Not Set
+    Desabilitar Vers‰es TLS Herdadas: Not Set
+    Habilitar T°quete de Sess∆o        : Not Set
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+
+
+    IP:porta                      : 0.0.0.0:44377
+    Hash de Certificado             : c250ad99ac75ff7251878711c0e4cd2129e860e7
+    ID do Aplicativo               : {214124cd-d05b-4309-9af9-9caa44b2b74a}
+    Nome do Reposit¢rio de Certificados       : MY
+    Verificar Revogaá∆o de Certificado de Cliente: Enabled
+    Verificar Revogaá∆o Usando Apenas Certificado de Cliente Armazenado em Cache: Disabled
+    Verificaá∆o de Uso                  : Enabled
+    Tempo de Atualizaá∆o da Revogaá∆o    : 0
+    Tempo Limite de Recuperaá∆o de URL        : 0
+    Identificador de Ctl               : (null)
+    Nome do Reposit¢rio de Ctl               : (null)
+    Uso do Mapeador de DS              : Disabled
+    Negociar Certificado de Cliente: Disabled
+    Rejeitar Conex‰es           : Disabled
+    Desabilitar HTTP2                : Not Set
+    Desabilitar QUIC                 : Not Set
+    Desabilitar TLS1.2               : Not Set
+    Desabilitar TLS1.3               : Not Set
+    Desabilitar Grampeamento OCSP        : Not Set
+    Habilitar Associaá∆o de Token         : Not Set
+    Registrar Eventos Estendidos          : Not Set
+    Desabilitar Vers‰es TLS Herdadas: Not Set
+    Habilitar T°quete de Sess∆o        : Not Set
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+
+
+    IP:porta                      : 0.0.0.0:44378
+    Hash de Certificado             : c250ad99ac75ff7251878711c0e4cd2129e860e7
+    ID do Aplicativo               : {214124cd-d05b-4309-9af9-9caa44b2b74a}
+    Nome do Reposit¢rio de Certificados       : MY
+    Verificar Revogaá∆o de Certificado de Cliente: Enabled
+    Verificar Revogaá∆o Usando Apenas Certificado de Cliente Armazenado em Cache: Disabled
+    Verificaá∆o de Uso                  : Enabled
+    Tempo de Atualizaá∆o da Revogaá∆o    : 0
+    Tempo Limite de Recuperaá∆o de URL        : 0
+    Identificador de Ctl               : (null)
+    Nome do Reposit¢rio de Ctl               : (null)
+    Uso do Mapeador de DS              : Disabled
+    Negociar Certificado de Cliente: Disabled
+    Rejeitar Conex‰es           : Disabled
+    Desabilitar HTTP2                : Not Set
+    Desabilitar QUIC                 : Not Set
+    Desabilitar TLS1.2               : Not Set
+    Desabilitar TLS1.3               : Not Set
+    Desabilitar Grampeamento OCSP        : Not Set
+    Habilitar Associaá∆o de Token         : Not Set
+    Registrar Eventos Estendidos          : Not Set
+    Desabilitar Vers‰es TLS Herdadas: Not Set
+    Habilitar T°quete de Sess∆o        : Not Set
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+
+
+    IP:porta                      : 0.0.0.0:44379
+    Hash de Certificado             : c250ad99ac75ff7251878711c0e4cd2129e860e7
+    ID do Aplicativo               : {214124cd-d05b-4309-9af9-9caa44b2b74a}
+    Nome do Reposit¢rio de Certificados       : MY
+    Verificar Revogaá∆o de Certificado de Cliente: Enabled
+    Verificar Revogaá∆o Usando Apenas Certificado de Cliente Armazenado em Cache: Disabled
+    Verificaá∆o de Uso                  : Enabled
+    Tempo de Atualizaá∆o da Revogaá∆o    : 0
+    Tempo Limite de Recuperaá∆o de URL        : 0
+    Identificador de Ctl               : (null)
+    Nome do Reposit¢rio de Ctl               : (null)
+    Uso do Mapeador de DS              : Disabled
+    Negociar Certificado de Cliente: Disabled
+    Rejeitar Conex‰es           : Disabled
+    Desabilitar HTTP2                : Not Set
+    Desabilitar QUIC                 : Not Set
+    Desabilitar TLS1.2               : Not Set
+    Desabilitar TLS1.3               : Not Set
+    Desabilitar Grampeamento OCSP        : Not Set
+    Habilitar Associaá∆o de Token         : Not Set
+    Registrar Eventos Estendidos          : Not Set
+    Desabilitar Vers‰es TLS Herdadas: Not Set
+    Habilitar T°quete de Sess∆o        : Not Set
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+
+
+    IP:porta                      : 0.0.0.0:44380
+    Hash de Certificado             : c250ad99ac75ff7251878711c0e4cd2129e860e7
+    ID do Aplicativo               : {214124cd-d05b-4309-9af9-9caa44b2b74a}
+    Nome do Reposit¢rio de Certificados       : MY
+    Verificar Revogaá∆o de Certificado de Cliente: Enabled
+    Verificar Revogaá∆o Usando Apenas Certificado de Cliente Armazenado em Cache: Disabled
+    Verificaá∆o de Uso                  : Enabled
+    Tempo de Atualizaá∆o da Revogaá∆o    : 0
+    Tempo Limite de Recuperaá∆o de URL        : 0
+    Identificador de Ctl               : (null)
+    Nome do Reposit¢rio de Ctl               : (null)
+    Uso do Mapeador de DS              : Disabled
+    Negociar Certificado de Cliente: Disabled
+    Rejeitar Conex‰es           : Disabled
+    Desabilitar HTTP2                : Not Set
+    Desabilitar QUIC                 : Not Set
+    Desabilitar TLS1.2               : Not Set
+    Desabilitar TLS1.3               : Not Set
+    Desabilitar Grampeamento OCSP        : Not Set
+    Habilitar Associaá∆o de Token         : Not Set
+    Registrar Eventos Estendidos          : Not Set
+    Desabilitar Vers‰es TLS Herdadas: Not Set
+    Habilitar T°quete de Sess∆o        : Not Set
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+
+
+    IP:porta                      : 0.0.0.0:44381
+    Hash de Certificado             : c250ad99ac75ff7251878711c0e4cd2129e860e7
+    ID do Aplicativo               : {214124cd-d05b-4309-9af9-9caa44b2b74a}
+    Nome do Reposit¢rio de Certificados       : MY
+    Verificar Revogaá∆o de Certificado de Cliente: Enabled
+    Verificar Revogaá∆o Usando Apenas Certificado de Cliente Armazenado em Cache: Disabled
+    Verificaá∆o de Uso                  : Enabled
+    Tempo de Atualizaá∆o da Revogaá∆o    : 0
+    Tempo Limite de Recuperaá∆o de URL        : 0
+    Identificador de Ctl               : (null)
+    Nome do Reposit¢rio de Ctl               : (null)
+    Uso do Mapeador de DS              : Disabled
+    Negociar Certificado de Cliente: Disabled
+    Rejeitar Conex‰es           : Disabled
+    Desabilitar HTTP2                : Not Set
+    Desabilitar QUIC                 : Not Set
+    Desabilitar TLS1.2               : Not Set
+    Desabilitar TLS1.3               : Not Set
+    Desabilitar Grampeamento OCSP        : Not Set
+    Habilitar Associaá∆o de Token         : Not Set
+    Registrar Eventos Estendidos          : Not Set
+    Desabilitar Vers‰es TLS Herdadas: Not Set
+    Habilitar T°quete de Sess∆o        : Not Set
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+
+
+    IP:porta                      : 0.0.0.0:44382
+    Hash de Certificado             : c250ad99ac75ff7251878711c0e4cd2129e860e7
+    ID do Aplicativo               : {214124cd-d05b-4309-9af9-9caa44b2b74a}
+    Nome do Reposit¢rio de Certificados       : MY
+    Verificar Revogaá∆o de Certificado de Cliente: Enabled
+    Verificar Revogaá∆o Usando Apenas Certificado de Cliente Armazenado em Cache: Disabled
+    Verificaá∆o de Uso                  : Enabled
+    Tempo de Atualizaá∆o da Revogaá∆o    : 0
+    Tempo Limite de Recuperaá∆o de URL        : 0
+    Identificador de Ctl               : (null)
+    Nome do Reposit¢rio de Ctl               : (null)
+    Uso do Mapeador de DS              : Disabled
+    Negociar Certificado de Cliente: Disabled
+    Rejeitar Conex‰es           : Disabled
+    Desabilitar HTTP2                : Not Set
+    Desabilitar QUIC                 : Not Set
+    Desabilitar TLS1.2               : Not Set
+    Desabilitar TLS1.3               : Not Set
+    Desabilitar Grampeamento OCSP        : Not Set
+    Habilitar Associaá∆o de Token         : Not Set
+    Registrar Eventos Estendidos          : Not Set
+    Desabilitar Vers‰es TLS Herdadas: Not Set
+    Habilitar T°quete de Sess∆o        : Not Set
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+
+
+    IP:porta                      : 0.0.0.0:44383
+    Hash de Certificado             : c250ad99ac75ff7251878711c0e4cd2129e860e7
+    ID do Aplicativo               : {214124cd-d05b-4309-9af9-9caa44b2b74a}
+    Nome do Reposit¢rio de Certificados       : MY
+    Verificar Revogaá∆o de Certificado de Cliente: Enabled
+    Verificar Revogaá∆o Usando Apenas Certificado de Cliente Armazenado em Cache: Disabled
+    Verificaá∆o de Uso                  : Enabled
+    Tempo de Atualizaá∆o da Revogaá∆o    : 0
+    Tempo Limite de Recuperaá∆o de URL        : 0
+    Identificador de Ctl               : (null)
+    Nome do Reposit¢rio de Ctl               : (null)
+    Uso do Mapeador de DS              : Disabled
+    Negociar Certificado de Cliente: Disabled
+    Rejeitar Conex‰es           : Disabled
+    Desabilitar HTTP2                : Not Set
+    Desabilitar QUIC                 : Not Set
+    Desabilitar TLS1.2               : Not Set
+    Desabilitar TLS1.3               : Not Set
+    Desabilitar Grampeamento OCSP        : Not Set
+    Habilitar Associaá∆o de Token         : Not Set
+    Registrar Eventos Estendidos          : Not Set
+    Desabilitar Vers‰es TLS Herdadas: Not Set
+    Habilitar T°quete de Sess∆o        : Not Set
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+
+
+    IP:porta                      : 0.0.0.0:44384
+    Hash de Certificado             : c250ad99ac75ff7251878711c0e4cd2129e860e7
+    ID do Aplicativo               : {214124cd-d05b-4309-9af9-9caa44b2b74a}
+    Nome do Reposit¢rio de Certificados       : MY
+    Verificar Revogaá∆o de Certificado de Cliente: Enabled
+    Verificar Revogaá∆o Usando Apenas Certificado de Cliente Armazenado em Cache: Disabled
+    Verificaá∆o de Uso                  : Enabled
+    Tempo de Atualizaá∆o da Revogaá∆o    : 0
+    Tempo Limite de Recuperaá∆o de URL        : 0
+    Identificador de Ctl               : (null)
+    Nome do Reposit¢rio de Ctl               : (null)
+    Uso do Mapeador de DS              : Disabled
+    Negociar Certificado de Cliente: Disabled
+    Rejeitar Conex‰es           : Disabled
+    Desabilitar HTTP2                : Not Set
+    Desabilitar QUIC                 : Not Set
+    Desabilitar TLS1.2               : Not Set
+    Desabilitar TLS1.3               : Not Set
+    Desabilitar Grampeamento OCSP        : Not Set
+    Habilitar Associaá∆o de Token         : Not Set
+    Registrar Eventos Estendidos          : Not Set
+    Desabilitar Vers‰es TLS Herdadas: Not Set
+    Habilitar T°quete de Sess∆o        : Not Set
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+
+
+    IP:porta                      : 0.0.0.0:44385
+    Hash de Certificado             : c250ad99ac75ff7251878711c0e4cd2129e860e7
+    ID do Aplicativo               : {214124cd-d05b-4309-9af9-9caa44b2b74a}
+    Nome do Reposit¢rio de Certificados       : MY
+    Verificar Revogaá∆o de Certificado de Cliente: Enabled
+    Verificar Revogaá∆o Usando Apenas Certificado de Cliente Armazenado em Cache: Disabled
+    Verificaá∆o de Uso                  : Enabled
+    Tempo de Atualizaá∆o da Revogaá∆o    : 0
+    Tempo Limite de Recuperaá∆o de URL        : 0
+    Identificador de Ctl               : (null)
+    Nome do Reposit¢rio de Ctl               : (null)
+    Uso do Mapeador de DS              : Disabled
+    Negociar Certificado de Cliente: Disabled
+    Rejeitar Conex‰es           : Disabled
+    Desabilitar HTTP2                : Not Set
+    Desabilitar QUIC                 : Not Set
+    Desabilitar TLS1.2               : Not Set
+    Desabilitar TLS1.3               : Not Set
+    Desabilitar Grampeamento OCSP        : Not Set
+    Habilitar Associaá∆o de Token         : Not Set
+    Registrar Eventos Estendidos          : Not Set
+    Desabilitar Vers‰es TLS Herdadas: Not Set
+    Habilitar T°quete de Sess∆o        : Not Set
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+
+
+    IP:porta                      : 0.0.0.0:44386
+    Hash de Certificado             : c250ad99ac75ff7251878711c0e4cd2129e860e7
+    ID do Aplicativo               : {214124cd-d05b-4309-9af9-9caa44b2b74a}
+    Nome do Reposit¢rio de Certificados       : MY
+    Verificar Revogaá∆o de Certificado de Cliente: Enabled
+    Verificar Revogaá∆o Usando Apenas Certificado de Cliente Armazenado em Cache: Disabled
+    Verificaá∆o de Uso                  : Enabled
+    Tempo de Atualizaá∆o da Revogaá∆o    : 0
+    Tempo Limite de Recuperaá∆o de URL        : 0
+    Identificador de Ctl               : (null)
+    Nome do Reposit¢rio de Ctl               : (null)
+    Uso do Mapeador de DS              : Disabled
+    Negociar Certificado de Cliente: Disabled
+    Rejeitar Conex‰es           : Disabled
+    Desabilitar HTTP2                : Not Set
+    Desabilitar QUIC                 : Not Set
+    Desabilitar TLS1.2               : Not Set
+    Desabilitar TLS1.3               : Not Set
+    Desabilitar Grampeamento OCSP        : Not Set
+    Habilitar Associaá∆o de Token         : Not Set
+    Registrar Eventos Estendidos          : Not Set
+    Desabilitar Vers‰es TLS Herdadas: Not Set
+    Habilitar T°quete de Sess∆o        : Not Set
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+
+
+    IP:porta                      : 0.0.0.0:44387
+    Hash de Certificado             : c250ad99ac75ff7251878711c0e4cd2129e860e7
+    ID do Aplicativo               : {214124cd-d05b-4309-9af9-9caa44b2b74a}
+    Nome do Reposit¢rio de Certificados       : MY
+    Verificar Revogaá∆o de Certificado de Cliente: Enabled
+    Verificar Revogaá∆o Usando Apenas Certificado de Cliente Armazenado em Cache: Disabled
+    Verificaá∆o de Uso                  : Enabled
+    Tempo de Atualizaá∆o da Revogaá∆o    : 0
+    Tempo Limite de Recuperaá∆o de URL        : 0
+    Identificador de Ctl               : (null)
+    Nome do Reposit¢rio de Ctl               : (null)
+    Uso do Mapeador de DS              : Disabled
+    Negociar Certificado de Cliente: Disabled
+    Rejeitar Conex‰es           : Disabled
+    Desabilitar HTTP2                : Not Set
+    Desabilitar QUIC                 : Not Set
+    Desabilitar TLS1.2               : Not Set
+    Desabilitar TLS1.3               : Not Set
+    Desabilitar Grampeamento OCSP        : Not Set
+    Habilitar Associaá∆o de Token         : Not Set
+    Registrar Eventos Estendidos          : Not Set
+    Desabilitar Vers‰es TLS Herdadas: Not Set
+    Habilitar T°quete de Sess∆o        : Not Set
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+
+
+    IP:porta                      : 0.0.0.0:44388
+    Hash de Certificado             : c250ad99ac75ff7251878711c0e4cd2129e860e7
+    ID do Aplicativo               : {214124cd-d05b-4309-9af9-9caa44b2b74a}
+    Nome do Reposit¢rio de Certificados       : MY
+    Verificar Revogaá∆o de Certificado de Cliente: Enabled
+    Verificar Revogaá∆o Usando Apenas Certificado de Cliente Armazenado em Cache: Disabled
+    Verificaá∆o de Uso                  : Enabled
+    Tempo de Atualizaá∆o da Revogaá∆o    : 0
+    Tempo Limite de Recuperaá∆o de URL        : 0
+    Identificador de Ctl               : (null)
+    Nome do Reposit¢rio de Ctl               : (null)
+    Uso do Mapeador de DS              : Disabled
+    Negociar Certificado de Cliente: Disabled
+    Rejeitar Conex‰es           : Disabled
+    Desabilitar HTTP2                : Not Set
+    Desabilitar QUIC                 : Not Set
+    Desabilitar TLS1.2               : Not Set
+    Desabilitar TLS1.3               : Not Set
+    Desabilitar Grampeamento OCSP        : Not Set
+    Habilitar Associaá∆o de Token         : Not Set
+    Registrar Eventos Estendidos          : Not Set
+    Desabilitar Vers‰es TLS Herdadas: Not Set
+    Habilitar T°quete de Sess∆o        : Not Set
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+
+
+    IP:porta                      : 0.0.0.0:44389
+    Hash de Certificado             : c250ad99ac75ff7251878711c0e4cd2129e860e7
+    ID do Aplicativo               : {214124cd-d05b-4309-9af9-9caa44b2b74a}
+    Nome do Reposit¢rio de Certificados       : MY
+    Verificar Revogaá∆o de Certificado de Cliente: Enabled
+    Verificar Revogaá∆o Usando Apenas Certificado de Cliente Armazenado em Cache: Disabled
+    Verificaá∆o de Uso                  : Enabled
+    Tempo de Atualizaá∆o da Revogaá∆o    : 0
+    Tempo Limite de Recuperaá∆o de URL        : 0
+    Identificador de Ctl               : (null)
+    Nome do Reposit¢rio de Ctl               : (null)
+    Uso do Mapeador de DS              : Disabled
+    Negociar Certificado de Cliente: Disabled
+    Rejeitar Conex‰es           : Disabled
+    Desabilitar HTTP2                : Not Set
+    Desabilitar QUIC                 : Not Set
+    Desabilitar TLS1.2               : Not Set
+    Desabilitar TLS1.3               : Not Set
+    Desabilitar Grampeamento OCSP        : Not Set
+    Habilitar Associaá∆o de Token         : Not Set
+    Registrar Eventos Estendidos          : Not Set
+    Desabilitar Vers‰es TLS Herdadas: Not Set
+    Habilitar T°quete de Sess∆o        : Not Set
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+
+
+    IP:porta                      : 0.0.0.0:44390
+    Hash de Certificado             : c250ad99ac75ff7251878711c0e4cd2129e860e7
+    ID do Aplicativo               : {214124cd-d05b-4309-9af9-9caa44b2b74a}
+    Nome do Reposit¢rio de Certificados       : MY
+    Verificar Revogaá∆o de Certificado de Cliente: Enabled
+    Verificar Revogaá∆o Usando Apenas Certificado de Cliente Armazenado em Cache: Disabled
+    Verificaá∆o de Uso                  : Enabled
+    Tempo de Atualizaá∆o da Revogaá∆o    : 0
+    Tempo Limite de Recuperaá∆o de URL        : 0
+    Identificador de Ctl               : (null)
+    Nome do Reposit¢rio de Ctl               : (null)
+    Uso do Mapeador de DS              : Disabled
+    Negociar Certificado de Cliente: Disabled
+    Rejeitar Conex‰es           : Disabled
+    Desabilitar HTTP2                : Not Set
+    Desabilitar QUIC                 : Not Set
+    Desabilitar TLS1.2               : Not Set
+    Desabilitar TLS1.3               : Not Set
+    Desabilitar Grampeamento OCSP        : Not Set
+    Habilitar Associaá∆o de Token         : Not Set
+    Registrar Eventos Estendidos          : Not Set
+    Desabilitar Vers‰es TLS Herdadas: Not Set
+    Habilitar T°quete de Sess∆o        : Not Set
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+
+
+    IP:porta                      : 0.0.0.0:44391
+    Hash de Certificado             : c250ad99ac75ff7251878711c0e4cd2129e860e7
+    ID do Aplicativo               : {214124cd-d05b-4309-9af9-9caa44b2b74a}
+    Nome do Reposit¢rio de Certificados       : MY
+    Verificar Revogaá∆o de Certificado de Cliente: Enabled
+    Verificar Revogaá∆o Usando Apenas Certificado de Cliente Armazenado em Cache: Disabled
+    Verificaá∆o de Uso                  : Enabled
+    Tempo de Atualizaá∆o da Revogaá∆o    : 0
+    Tempo Limite de Recuperaá∆o de URL        : 0
+    Identificador de Ctl               : (null)
+    Nome do Reposit¢rio de Ctl               : (null)
+    Uso do Mapeador de DS              : Disabled
+    Negociar Certificado de Cliente: Disabled
+    Rejeitar Conex‰es           : Disabled
+    Desabilitar HTTP2                : Not Set
+    Desabilitar QUIC                 : Not Set
+    Desabilitar TLS1.2               : Not Set
+    Desabilitar TLS1.3               : Not Set
+    Desabilitar Grampeamento OCSP        : Not Set
+    Habilitar Associaá∆o de Token         : Not Set
+    Registrar Eventos Estendidos          : Not Set
+    Desabilitar Vers‰es TLS Herdadas: Not Set
+    Habilitar T°quete de Sess∆o        : Not Set
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+
+
+    IP:porta                      : 0.0.0.0:44392
+    Hash de Certificado             : c250ad99ac75ff7251878711c0e4cd2129e860e7
+    ID do Aplicativo               : {214124cd-d05b-4309-9af9-9caa44b2b74a}
+    Nome do Reposit¢rio de Certificados       : MY
+    Verificar Revogaá∆o de Certificado de Cliente: Enabled
+    Verificar Revogaá∆o Usando Apenas Certificado de Cliente Armazenado em Cache: Disabled
+    Verificaá∆o de Uso                  : Enabled
+    Tempo de Atualizaá∆o da Revogaá∆o    : 0
+    Tempo Limite de Recuperaá∆o de URL        : 0
+    Identificador de Ctl               : (null)
+    Nome do Reposit¢rio de Ctl               : (null)
+    Uso do Mapeador de DS              : Disabled
+    Negociar Certificado de Cliente: Disabled
+    Rejeitar Conex‰es           : Disabled
+    Desabilitar HTTP2                : Not Set
+    Desabilitar QUIC                 : Not Set
+    Desabilitar TLS1.2               : Not Set
+    Desabilitar TLS1.3               : Not Set
+    Desabilitar Grampeamento OCSP        : Not Set
+    Habilitar Associaá∆o de Token         : Not Set
+    Registrar Eventos Estendidos          : Not Set
+    Desabilitar Vers‰es TLS Herdadas: Not Set
+    Habilitar T°quete de Sess∆o        : Not Set
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+
+
+    IP:porta                      : 0.0.0.0:44393
+    Hash de Certificado             : c250ad99ac75ff7251878711c0e4cd2129e860e7
+    ID do Aplicativo               : {214124cd-d05b-4309-9af9-9caa44b2b74a}
+    Nome do Reposit¢rio de Certificados       : MY
+    Verificar Revogaá∆o de Certificado de Cliente: Enabled
+    Verificar Revogaá∆o Usando Apenas Certificado de Cliente Armazenado em Cache: Disabled
+    Verificaá∆o de Uso                  : Enabled
+    Tempo de Atualizaá∆o da Revogaá∆o    : 0
+    Tempo Limite de Recuperaá∆o de URL        : 0
+    Identificador de Ctl               : (null)
+    Nome do Reposit¢rio de Ctl               : (null)
+    Uso do Mapeador de DS              : Disabled
+    Negociar Certificado de Cliente: Disabled
+    Rejeitar Conex‰es           : Disabled
+    Desabilitar HTTP2                : Not Set
+    Desabilitar QUIC                 : Not Set
+    Desabilitar TLS1.2               : Not Set
+    Desabilitar TLS1.3               : Not Set
+    Desabilitar Grampeamento OCSP        : Not Set
+    Habilitar Associaá∆o de Token         : Not Set
+    Registrar Eventos Estendidos          : Not Set
+    Desabilitar Vers‰es TLS Herdadas: Not Set
+    Habilitar T°quete de Sess∆o        : Not Set
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+
+
+    IP:porta                      : 0.0.0.0:44394
+    Hash de Certificado             : c250ad99ac75ff7251878711c0e4cd2129e860e7
+    ID do Aplicativo               : {214124cd-d05b-4309-9af9-9caa44b2b74a}
+    Nome do Reposit¢rio de Certificados       : MY
+    Verificar Revogaá∆o de Certificado de Cliente: Enabled
+    Verificar Revogaá∆o Usando Apenas Certificado de Cliente Armazenado em Cache: Disabled
+    Verificaá∆o de Uso                  : Enabled
+    Tempo de Atualizaá∆o da Revogaá∆o    : 0
+    Tempo Limite de Recuperaá∆o de URL        : 0
+    Identificador de Ctl               : (null)
+    Nome do Reposit¢rio de Ctl               : (null)
+    Uso do Mapeador de DS              : Disabled
+    Negociar Certificado de Cliente: Disabled
+    Rejeitar Conex‰es           : Disabled
+    Desabilitar HTTP2                : Not Set
+    Desabilitar QUIC                 : Not Set
+    Desabilitar TLS1.2               : Not Set
+    Desabilitar TLS1.3               : Not Set
+    Desabilitar Grampeamento OCSP        : Not Set
+    Habilitar Associaá∆o de Token         : Not Set
+    Registrar Eventos Estendidos          : Not Set
+    Desabilitar Vers‰es TLS Herdadas: Not Set
+    Habilitar T°quete de Sess∆o        : Not Set
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+
+
+    IP:porta                      : 0.0.0.0:44395
+    Hash de Certificado             : c250ad99ac75ff7251878711c0e4cd2129e860e7
+    ID do Aplicativo               : {214124cd-d05b-4309-9af9-9caa44b2b74a}
+    Nome do Reposit¢rio de Certificados       : MY
+    Verificar Revogaá∆o de Certificado de Cliente: Enabled
+    Verificar Revogaá∆o Usando Apenas Certificado de Cliente Armazenado em Cache: Disabled
+    Verificaá∆o de Uso                  : Enabled
+    Tempo de Atualizaá∆o da Revogaá∆o    : 0
+    Tempo Limite de Recuperaá∆o de URL        : 0
+    Identificador de Ctl               : (null)
+    Nome do Reposit¢rio de Ctl               : (null)
+    Uso do Mapeador de DS              : Disabled
+    Negociar Certificado de Cliente: Disabled
+    Rejeitar Conex‰es           : Disabled
+    Desabilitar HTTP2                : Not Set
+    Desabilitar QUIC                 : Not Set
+    Desabilitar TLS1.2               : Not Set
+    Desabilitar TLS1.3               : Not Set
+    Desabilitar Grampeamento OCSP        : Not Set
+    Habilitar Associaá∆o de Token         : Not Set
+    Registrar Eventos Estendidos          : Not Set
+    Desabilitar Vers‰es TLS Herdadas: Not Set
+    Habilitar T°quete de Sess∆o        : Not Set
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+
+
+    IP:porta                      : 0.0.0.0:44396
+    Hash de Certificado             : c250ad99ac75ff7251878711c0e4cd2129e860e7
+    ID do Aplicativo               : {214124cd-d05b-4309-9af9-9caa44b2b74a}
+    Nome do Reposit¢rio de Certificados       : MY
+    Verificar Revogaá∆o de Certificado de Cliente: Enabled
+    Verificar Revogaá∆o Usando Apenas Certificado de Cliente Armazenado em Cache: Disabled
+    Verificaá∆o de Uso                  : Enabled
+    Tempo de Atualizaá∆o da Revogaá∆o    : 0
+    Tempo Limite de Recuperaá∆o de URL        : 0
+    Identificador de Ctl               : (null)
+    Nome do Reposit¢rio de Ctl               : (null)
+    Uso do Mapeador de DS              : Disabled
+    Negociar Certificado de Cliente: Disabled
+    Rejeitar Conex‰es           : Disabled
+    Desabilitar HTTP2                : Not Set
+    Desabilitar QUIC                 : Not Set
+    Desabilitar TLS1.2               : Not Set
+    Desabilitar TLS1.3               : Not Set
+    Desabilitar Grampeamento OCSP        : Not Set
+    Habilitar Associaá∆o de Token         : Not Set
+    Registrar Eventos Estendidos          : Not Set
+    Desabilitar Vers‰es TLS Herdadas: Not Set
+    Habilitar T°quete de Sess∆o        : Not Set
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+
+
+    IP:porta                      : 0.0.0.0:44397
+    Hash de Certificado             : c250ad99ac75ff7251878711c0e4cd2129e860e7
+    ID do Aplicativo               : {214124cd-d05b-4309-9af9-9caa44b2b74a}
+    Nome do Reposit¢rio de Certificados       : MY
+    Verificar Revogaá∆o de Certificado de Cliente: Enabled
+    Verificar Revogaá∆o Usando Apenas Certificado de Cliente Armazenado em Cache: Disabled
+    Verificaá∆o de Uso                  : Enabled
+    Tempo de Atualizaá∆o da Revogaá∆o    : 0
+    Tempo Limite de Recuperaá∆o de URL        : 0
+    Identificador de Ctl               : (null)
+    Nome do Reposit¢rio de Ctl               : (null)
+    Uso do Mapeador de DS              : Disabled
+    Negociar Certificado de Cliente: Disabled
+    Rejeitar Conex‰es           : Disabled
+    Desabilitar HTTP2                : Not Set
+    Desabilitar QUIC                 : Not Set
+    Desabilitar TLS1.2               : Not Set
+    Desabilitar TLS1.3               : Not Set
+    Desabilitar Grampeamento OCSP        : Not Set
+    Habilitar Associaá∆o de Token         : Not Set
+    Registrar Eventos Estendidos          : Not Set
+    Desabilitar Vers‰es TLS Herdadas: Not Set
+    Habilitar T°quete de Sess∆o        : Not Set
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+
+
+    IP:porta                      : 0.0.0.0:44398
+    Hash de Certificado             : c250ad99ac75ff7251878711c0e4cd2129e860e7
+    ID do Aplicativo               : {214124cd-d05b-4309-9af9-9caa44b2b74a}
+    Nome do Reposit¢rio de Certificados       : MY
+    Verificar Revogaá∆o de Certificado de Cliente: Enabled
+    Verificar Revogaá∆o Usando Apenas Certificado de Cliente Armazenado em Cache: Disabled
+    Verificaá∆o de Uso                  : Enabled
+    Tempo de Atualizaá∆o da Revogaá∆o    : 0
+    Tempo Limite de Recuperaá∆o de URL        : 0
+    Identificador de Ctl               : (null)
+    Nome do Reposit¢rio de Ctl               : (null)
+    Uso do Mapeador de DS              : Disabled
+    Negociar Certificado de Cliente: Disabled
+    Rejeitar Conex‰es           : Disabled
+    Desabilitar HTTP2                : Not Set
+    Desabilitar QUIC                 : Not Set
+    Desabilitar TLS1.2               : Not Set
+    Desabilitar TLS1.3               : Not Set
+    Desabilitar Grampeamento OCSP        : Not Set
+    Habilitar Associaá∆o de Token         : Not Set
+    Registrar Eventos Estendidos          : Not Set
+    Desabilitar Vers‰es TLS Herdadas: Not Set
+    Habilitar T°quete de Sess∆o        : Not Set
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+
+
+    IP:porta                      : 0.0.0.0:44399
+    Hash de Certificado             : c250ad99ac75ff7251878711c0e4cd2129e860e7
+    ID do Aplicativo               : {214124cd-d05b-4309-9af9-9caa44b2b74a}
+    Nome do Reposit¢rio de Certificados       : MY
+    Verificar Revogaá∆o de Certificado de Cliente: Enabled
+    Verificar Revogaá∆o Usando Apenas Certificado de Cliente Armazenado em Cache: Disabled
+    Verificaá∆o de Uso                  : Enabled
+    Tempo de Atualizaá∆o da Revogaá∆o    : 0
+    Tempo Limite de Recuperaá∆o de URL        : 0
+    Identificador de Ctl               : (null)
+    Nome do Reposit¢rio de Ctl               : (null)
+    Uso do Mapeador de DS              : Disabled
+    Negociar Certificado de Cliente: Disabled
+    Rejeitar Conex‰es           : Disabled
+    Desabilitar HTTP2                : Not Set
+    Desabilitar QUIC                 : Not Set
+    Desabilitar TLS1.2               : Not Set
+    Desabilitar TLS1.3               : Not Set
+    Desabilitar Grampeamento OCSP        : Not Set
+    Habilitar Associaá∆o de Token         : Not Set
+    Registrar Eventos Estendidos          : Not Set
+    Desabilitar Vers‰es TLS Herdadas: Not Set
+    Habilitar T°quete de Sess∆o        : Not Set
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+ Propriedades Estendidas:
+    PropertyId                   : 0
+    Janela de Recepá∆o: 1048576
+
