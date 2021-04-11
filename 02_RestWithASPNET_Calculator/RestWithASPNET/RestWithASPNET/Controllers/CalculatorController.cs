@@ -29,11 +29,11 @@ namespace RestWithASPNET.Controllers
             return BadRequest("Invalid input");
         }
 
-        private bool IsNumeric(string strNumber)
+        private bool IsNumeric(string strNumberr)
         {
             double number;
             bool isNumber = double.TryParse(
-                strNumber, 
+                strNumberr, 
                 NumberStyles.Any, 
                 NumberFormatInfo.InvariantInfo, 
                 out number);
